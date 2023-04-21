@@ -1,0 +1,1547 @@
+CONFIDENTIAL
+To be argued by
+David Billingsley
+SUPREME COURT OF THE STATE OF NEW YORK
+APPELLATE DIVISION: FIRST DEPARTMENT
+THE PEOPLE OF THE STATE OF NEW YORK,
+Respondent,
+-against-
+JUAN CACERES,
+Defendant-Appellant.
+BRIEF FOR DEFENDANT-APPELLANT
+JUAN CACERES
+CHRISTINA SWARNS, ESQ.
+Attorney for Defendant-Appellant
+LAUREN STEPHENS-DAVIDOWITZ, ESQ.
+Senior Staff Attorney
+By: DAVID BILLINGSLEY, ESQ.
+Staff Attorney
+OFFICE OF THE APPELLATE DEFENDER
+11 Park Place, Suite 1601
+New York, NY 10007
+(212) 402-4100
+dbillingsley@appellatedefender.orgTABLE OF CONTENTS
+Table of Contents .................................................................................................................... i
+Table of Authorities ............................................................................................................... ii
+Preliminary Statement ........................................................................................................... iv
+Questions Presented .............................................................................................................. 1
+Introduction ............................................................................................................................ 2
+Statement of Facts .................................................................................................................. 4
+Argument ............................................................................................................................... 31
+POINT I............................................................................................................................ 31
+JUAN CACERES'S CONVICTION MUST BE REVERSED DUE TO THE
+INTRODUCTION OF THE COMPLAINANT'S HIGHLY PREJUDICIAL
+TESTIMONY THAT MR. CACERES HAD SEXUALLY ABUSED HER
+YEARS PRIOR TO THE CHARGED INCIDENTS. ........................................ 31
+POINT II .......................................................................................................................... 41
+JUAN CACERES WAS DEPRIVED OF A FAIR TRIAL WHEN THE
+PROSECUTION REPEATEDLY VOUCHED FOR THE CREDIBILITY
+OF ITS WITNESSES AND ATTEMPTED TO SHIFT THE BURDEN OF
+PROOF TO MR. CACERES IN SUMMATION. ................................................ 41
+POINT III ........................................................................................................................ 49
+THE VERDICT WAS AGAINST THE WEIGHT OF THE EVIDENCE
+BECAUSE THE COMPLAINANT'S TESTIMONY WAS INCONSISTENT,
+CONTRADICTORY, IMPLAUSIBLE, AND UNCORROBORATED AND
+THEREFORE WHOLLY INCREDIBLE. ............................................................ 49
+Conclusion ............................................................................................................................. 67
+Addenda ................................................................................................................................... 1
+Statement Pursuant to Rule 5531 ................................................................................. A-1
+Printing Specification Statement .................................................................................. A-2
+iTABLE OF AUTHORITIES
+Cases
+People v. Bailey, 58 N.Y.2d 272 (1983) ........................................................................... 41, 44
+People v. Barranco, 174 A.D.2d 343 (1st Dep't 1991)................................................... passim
+People v. Bleakley, 69 N.Y.2d 490 (1987) ........................................................................ 49, 50
+People v. Bull, 218 A.D.2d 663 (2d Dep't 1995) ................................................................. 46
+People v. Cahill, 2 N.Y.3d 14 (2003) ..................................................................................... 50
+People v. Cantoni, 140 A.D.3d 782 (2d Dep't 2016) ............................................................ 45
+People v. Casanova, 119 A.D.3d 976 (3d Dep't 2014) ......................................................... 48
+People v. Collins, 12 A.D.3d 33 (1st Dep't 2004) .......................................................... passim
+People v. Delamota, 18 N.Y.3d 107 (2011) ............................................................................ 50
+People v. Fisher, 104 A.D.3d 868 (2d Dep't 2013) .............................................................. 66
+People v. Fleegle, 295 A.D.2d 760 (3d Dep't 1992) ........................................... 15, 33, 35, 36
+People v. Forbes, 111 A.D.3d 1154 (3d Dep't 2013) ................................................ 42, 45, 48
+People v. Foster, 295 A.D.2d 110 (1st Dep't 2002) ........................................................ 32, 36
+People v. Franco, 11 A.D.3d 710 (2d Dep't 2004)......................................................... passim
+People v. Gautier, 148 A.D.2d 280 (1st Dep't 1989) ........................................ 31, 33, 35, 36
+People v. Gonzalez, 84 A.D.3d 1400 (2d Dep't 2011) .................................................. 53, 66
+People v. Griffin, 125 A.D.3d 1509 (4th Dep't 2015) .................................................... 45, 48
+People v. Harte, 29 A.D.3d 475 (1st Dep't 2006) ................................................................ 47
+People v. Hudy, 73 N.Y.2d 40 (1988) .............................................................................. 38, 39
+People v. Intelisano, 188 A.D.2d 881 (3d Dep't 1992) .................................................. passim
+People v. Jones, 134 A.D.3d 1588 (4th Dep't 2015) ................................................. 42, 43, 48
+iiPeople v. LaDolce, 196 A.D.2d 49 (4th Dep't 1994) ............................................................ 47
+People v. Levy, 202 A.D.2d 242 (1st Dep't 1994) ................................................................ 47
+People v. Lewis, 69 N.Y.2d 321 (1987) ............................................................................ 37, 39
+People v. Madison, 61 A.D.3d 777 (2d Dep't 2009) ................................................. 54, 56, 58
+People v. McMitchell, 110 A.D.3d 923 (2d Dep't 2013) ....................................................... 58
+People v. McReynolds, 175 A.D.2d 31 (1st Dep't 1991) ................................................. 44, 48
+People v. Mehmood, 112 A.D.3d 850 (2d Dep't 2013) ......................................................... 41
+People v. Molineux, 168 N.Y.2d 264 (1901) ................................................................... passim
+People v. Morgan, 75 A.D.3d 1050 (4th Dep't 2010) ........................................................... 46
+People v. Ortiz, 33 A.D.3d 432 (1st Dep't 2006) ..................................................... 41, 46, 48
+People v. Otway, 71 A.D.3d 1052 (2d Dep't 2010) ........................................... 54, 56, 58, 66
+People v. Pagan, 2 A.D.3d 879 (2d Dep't 2003) ............................................................. 45, 48
+People v. Porter, 136 A.D.3d 1344 (4th Dep't 2016) ..................................................... 46, 48
+People v. Pugh, 258 A.D.2d 674 (2d Dep't 1999) ................................................................ 46
+People v. Resek, 3 N.Y.3d 385 (2004) .................................................................................... 32
+People v. Roman, 150 A.D.2d 252 (1st Dep't 1989) ...................................................... 42, 44
+People v. Till, 87 N.Y.2d 835 (1995) ..................................................................................... 32
+People v. Ventimiglia, 52 N.Y.2d 350 (1981) ................................................................. passim
+People v. Zephyrin, 52 A.D.3d 543 (2d Dep't 2008) ...................................................... 50, 58
+Statutes
+N.Y. Crim. Proc. Law § 470.15(5) ...................................................................................... 49
+Constitutional Provisions
+N.Y. Const. Art. I, § 6 .............................................................................................. 31, 40, 41
+U.S. Const. Am. XIV ............................................................................................... 31, 40, 41
+iiiSupreme Court of the State of New York
+Appellate Division: First Department
+The People of the State of New York,
+Respondent,
+— against — Ind. No. 473-2010
+Juan Caceres,
+Defendant-Appellant.
+PRELIMINARY STATEMENT
+This is an appeal from a judgment rendered on April 13, 2011, by the Supreme
+Court, New York County. Juan Caceres was convicted after trial of one count of rape in
+the second degree, N.Y. Penal Law § 130.30(1), one count of endangering the welfare of
+a child, N.Y. Penal Law § 260.10(1), and one count of criminal contempt in the second
+degree, N.Y. Penal Law § 215.50(3). He was acquitted of predatory sexual assault against
+a child, N.Y. Penal Law § 130.96. Mr. Caceres was sentenced to seven years' imprison-
+ment and 10 years' post-release supervision on the rape count and one year on the mis-
+demeanor counts, all to be served concurrently.
+Justice Carol Berkman provided over the pre-trial hearing. Justice Bruce Allen pre-
+sided over the trial and sentencing. Timely notice of appeal was filed. No stay of execu-
+tion has been sought.
+ivQUESTIONS PRESENTED
+1. Where the prosecution introduced highly prejudicial testimony regarding an
+uncharged allegation of sexual abuse from the complainant without a hearing as to its
+admissibility, was Mr. Caceres's right to a fair trial violated?
+2. Where, in summation, the prosecution vouched for the credibility of its wit-
+nesses and shifted the burden of proof onto Mr. Caceres, including by characterizing
+Mr. Caceres's defense as that of a conspiracy to frame him, was Mr. Caceres's right to
+a fair trial violated?
+3. Where the complainant gave inconsistent, contradictory, uncorroborated, and
+implausible testimony as to the alleged offenses, and admitted to repeatedly falsifying
+allegations of abuse against her parents over many years, were the verdicts for second-
+degree rape and endangering the welfare of a child against the weight of the evidence?
+1INTRODUCTION
+Juan Caceres's conviction resulted from only the latest in a series of false allega-
+tions of abuse by the complainant, Vanessa Barrientos, against her parents. The Ad-
+ministration for Children's Services (ACS) had repeatedly investigated the complain-
+ant's false allegations from 2002 to 2009. These fabrications included the complainant
+saying that her parents had beaten her with a hammer when in fact she had been bit-
+ing herself, and that her mother had tried to smother her with a pillow and broken her
+nose. In this case, the complainant's spurious allegations escalated. She claimed that
+her father, Mr. Caceres, had engaged in oral sex and sexual intercourse with her, be-
+ginning when she was in the sixth grade.
+Mr. Caceres's convictions for rape in the second degree, endangering the wel-
+fare of a child, and criminal contempt in the second degree must be reversed and a
+new trial ordered. First, the trial court should have granted defense counsel's motion
+for a mistrial after the prosecution elicited testimony from the complainant about an
+uncharged allegation that Mr. Caceres had touched her vagina in an elevator years pri-
+or to the charged incidents. This was a blatant violation of the prohibition that evi-
+dence of uncharged crimes may not be introduced without a hearing to determine
+whether its probative value outweighs its prejudicial effect. The trial court properly
+concluded that this testimony should have been excluded but denied the defense's
+motion for a mistrial, offering to strike the testimony instead. This remedy could not
+have cured the extremely prejudicial effect of this testimony, but instead would have
+2only reminded the jurors of the inflammatory testimony. The prosecution then capi-
+talized on the violation by focusing on this improperly admitted testimony in summa-
+tion.
+Mr. Caceres was also deprived of a fair trial when, during summation, the pros-
+ecution repeatedly vouched for the credibility of its witnesses and shifted the burden
+of proof to Mr. Caceres. In particular, the prosecution repeatedly argued that Mr. Ca-
+ceres could only be acquitted if he proved that there was a conspiracy to frame him,
+concocted by the complainant's family, the police and the District Attorney's Office.
+It also indicated that the jury must conclude that prosecution's witnesses were lying to
+acquit Mr. Caceres.
+Moreover, this Court should find that the verdicts for second-degree rape and
+endangering the welfare of a child were against the weight of the evidence because the
+complainant's testimony was simply not credible. Mr. Caceres was convicted of sec-
+ond-degree rape based on the complainant's testimony that he had sex with her in
+January 2010, but her testimony about this event was inconsistent with the account
+she gave when she first reported the allegations. The complainant also alleged an on-
+going course of sexual abuse prior to January 2010, which was the basis of Mr. Ca-
+ceres's conviction for endangering the welfare of a child. But, unsurprisingly given her
+admitted pattern of false accusations against her parents, her testimony was often im-
+plausible, contradictory, or refuted by other evidence. Significantly, there was no phys-
+ical evidence to corroborate her claims.
+3STATEMENT OF FACTS
+A. Juan Caceres was charged with several counts of sexually abusing his
+daughter.
+1. Mr. Caceres's Background.
+Before his arrest in this case, Juan Caceres was a major organizer for
+CECOMEX, a non-profit community organization that worked with the Mexican
+community of New York City. T. 296, 389, 912.1 The organization was staffed largely
+by volunteers. T. 898, 900. CECOMEX assisted community members with many is-
+sues, including landlord-tenant, employment, immigration, or business-related mat-
+ters. T. 295-97. CECOMEX maintained an office on 110th Street in Manhattan at the
+time of Mr. Caceres's arrest, T. 53, 188-89, and previously maintained an office on
+116th Street. T. 164, 335.
+2. Charges and Pre-trial Proceedings.
+On February 1, 2010, Mr. Caceres was indicted with one count of predatory
+sexual assault against a child, one count of rape in the second-degree, one count of
+criminal sexual act in the second-degree, and one count of endangering the welfare of
+a child. See Indictment No. 473-2010 (hereinafter, “Indictment”). These charges
+stemmed from allegations by his daughter, Vanessa Barrientos, that he had engaged in
+oral sex and sexual intercourse with her beginning in 2007, when she was 11 years old,
+1 Citations preceded by “T.” refer to the trial proceedings, which occurred on January 18, 2011
+through February 3, 2011; citations preceded by “VD.” refer to voir dire proceedings, which oc-
+curred on January 10, 2011 through January 14, 2011; and citations preceded by “S.” refer to the
+sentencing proceedings, which occurred on March 1, 2011.
+4until January 2010. See Indictment at 1-2; T. 81 (complainant's date of birth is October
+18, 1995). The charge of second-degree rape in the indictment alleged a single act of
+sexual intercourse with the complainant “on or about January 9, 2010.” Indictment at
+1. Mr. Caceres was also charged with criminal contempt in the second degree for al-
+legedly violating an order of protection barring him from communicating with the
+complainant's mother, Carmen Barrientos.2 See Indictment at 3; People's Exh. 3.
+Prior to trial, the court held a Molineux hearing at which the prosecution moved
+to introduce recanted allegations of abuse made by Sharon Caceres, Mr. Caceres's
+other daughter. VD. 33-47. The court denied the prosecution's application. T. 65.
+B. Trial.
+1. The Complainant's Testimony.
+a. The Complainant Alleged a Course of Sexual Abuse with Many
+Contradictory or Inconsistent Details.
+At trial, the complainant testified that, as of 2008, she, her mother, and her old-
+er siblings Usenia and Oliver Barrientos, and Mr. Caceres, all shared a one-bedroom
+apartment at 402 East 92nd Street in Manhattan. T. 84, 88, 99-101, 403, 656. Mr. Ca-
+ceres typically shared the apartment's bedroom with Carmen Barrientos. T. 269; 697.
+Mr. Caceres was not a part of the complainant's early childhood; she remembers first
+meeting her dad when she was approximately four years old, and he moved in perma-
+nently when the complainant was in sixth grade. T. 91-92, 97.
+2 Both the complainant and her mother Carmen have the same last name. Thus, to avoid confusion,
+Vanessa Barrientos is referred to as “the complainant” and her mother as “Ms. Barrientos.”
+5The complainant testified that Mr. Caceres's sexual conduct with her initially
+began when he showed her a pornographic movie around when she was in the fifth
+grade, and later escalated to him performing oral sex on her. T. 103-17, 126, 132-34.
+She testified that her father began having sexual intercourse with her on a regular ba-
+sis at the end of the summer before seventh grade. T. 145-46. She said that sexual in-
+tercourse with him became like a “basic routine” occurring almost every weekend. T.
+148, 167. She claimed that he would have sexual contact with her usually in the living
+room of the apartment around midday. T. 105, 145, 338.
+The complainant also claimed that Mr. Caceres had sex with her in the
+CECOMEX offices during the daytime, starting in “the summer of sixth grade,” first
+by bringing her with him to the 116th Street office, then later to the 110th Street office.
+T. 164, 166. She testified that the 110th Street office consisted of two rooms, with no
+door separating the front room from the back room, only a hallway. T. 336-37. The
+complainant also testified that many people came and went from the office, including
+members of the public who sought assistance from CECOMEX. T. 296-97. The
+complainant also testified that members of the organization frequently brought their
+children to the office. T. 294-95.
+The complainant said that Mr. Caceres always used condoms. T. 156. She said
+he kept them in a black bag that also contained “sex movies,” vibrators, and lubricant.
+T. 158-59. She said Mr. Caceres stored the black bag in his car. T. 345. She testified at
+one point that the condoms were black-labeled NYC condoms. T. 151, 261. The
+6complainant said she had seen the NYC condoms in a box in the CECOMEX office
+before, and that CECOMEX gave them out for free to teenagers. T. 153-54, 367-68,
+370. But on cross-examination, she admitted that she told police that Mr. Caceres had
+used Trojan brand condoms that he had purchased from Duane Reade. T. 368. She
+also later contradicted her statement that the condoms had been kept in a black bag in
+the car when she instead said that they were kept in a cabinet or a drawer. T. 365.
+The complainant also claimed that on one occasion Mr. Caceres took her and
+her half-sister Sharon to a hotel for a night. T. 171. She said that Mr. Caceres pur-
+chased alcohol for them and that she and Sharon both got drunk. T. 173. She said that
+she did not remember what happened, but the next morning she woke up naked and
+her sister was on the bed asleep. T. 174-75. She said that she vomited repeatedly in the
+car on the way home. T. 175.
+The complainant testified that after this incident, she did not drink alcohol. T.
+393. However, on cross, defense counsel showed her a photograph in which she was
+holding a beer bottle that she had posted on her MySpace account. T. 393. The com-
+plainant then said that, on that occasion, she had asked her father if she could have a
+beer and he allowed her to. T. 393-95. She said that she had “two sips.” T. 394.
+The complainant also testified that her father kept pictures of her without
+clothing on his computer at CECOMEX, on a USB drive, and on a CD. T. 182-83,
+428-29, 444-45.
+7b. The Complainant Had Repeatedly Fabricated Allegations of
+Violent Abuse Against Her Parents in the Past
+The complainant admitted to having a longstanding habit of making up claims
+that her parents had abused her. This behavior occurred on multiple occasions be-
+tween 2002 and 2009.
+In 2002, the complainant told staff at her school that her parents had beaten
+her with a hammer. T. 311-13. She had marks on her arm that presumably appeared
+to be injuries. Id. When she was taken to the doctor to be examined, the doctors real-
+ized that the marks were self-inflicted bite wounds. T. 312. At trial, the complainant
+admitted that she had “made the whole story up.” T. 315. She said she had lied be-
+cause she was upset that her father wanted her to do her homework and got angry
+when she did not. T. 315.
+The complainant admitted engaging in similar behavior in 2003. During her tes-
+timony she acknowledged that she made up an allegation on September 4, 2003, T.
+316, although she was not questioned about the details. The complainant justified her
+lies by saying this behavior was the result of having “made mistakes” because she was
+“little.” T. 320.
+But she again made false accusations in 2009 when she was approximately 14
+years old. Then, the complainant's guidance counselor reported “an incident involving
+[the complainant's] parents to [ACS],” and “as a result, they came to [her] home to
+investigate[.]” T. 323. Defense counsel referred to a document that apparently refer-
+8enced the complainant's allegation that her parents were drinking excessively and us-
+ing drugs, although the complainant denied those specific allegations on the witness
+stand. T. 322-25. But she admitted that an investigator came to her home in Decem-
+ber 2009 to inquire about something she told her guidance counselor about her par-
+ents. T. 322-23. She then told the investigator that there were no problems in her
+household, that she had “kind parents” whom she “enjoyed being with,” and she
+made no mention of abuse. T. 323-24. She then spoke privately with the investigator
+at school the next day after being pulled out of class, and again denied any abuse by
+either parent. Id.
+On direct examination, the complainant admitted that, also in 2009, she lied to
+her neighbor and said her mother had tried to smother her by putting a pillow over
+her face and had broken her nose. T. 140-41. She testified that she did not know why
+she made up the story. T. 140. However, on cross-examination, when defense counsel
+referred to ACS documents documenting this incident, she suddenly denied telling
+anyone her mother put a pillow over her face. T. 317-18.
+The complainant also testified that she had told an ACS investigator that on
+one occasion Mr. Caceres drove home from a party drunk, with the complainant, her
+siblings, and her mother in the car. T. 323, 325-26. She said that her mother made him
+pull over and they walked home. T. 326. But her mother, who would later testify, de-
+nied recalling any such incident. T. 745-46.
+9c. The Complainant's Testimony Contradicted Her Statements to
+Police and Medical Personnel About the Alleged Incident of
+Sexual Intercourse with Mr. Caceres in January 2010.
+The complainant testified that the last time Mr. Caceres had sex with her was
+on January 10, or January 11, 2010. T. 232. She said she remembered that it was a Sat-
+urday and that “it was a week before Martin Luther King Day.” T. 232. The com-
+plainant also claimed to recall specific details of the day Mr. Caceres last had sex with
+her and the days immediately thereafter. She said that she initially refused to have sex
+with him, but eventually capitulated after he agreed that it would be the last time he
+would touch her. T. 235. But she said that after they had sex, he nonetheless contin-
+ued to touch her on the vagina “like almost every day,” “whenever he could[.]” T.
+236-37.
+She testified that the last time Mr. Caceres touched her vagina was January 17
+in the CECOMEX office. T. 237. When asked how she knew it was on January 17,
+she insisted, “Because I remember.” T. 237. The complainant testified with specificity
+about this incident. She said that she was using the computer in the office when Mr.
+Caceres went to get a drink of water and then “came like right behind me and then he
+like covered – Like he leaned over and he like tried – Like he touched me.” T. 238.
+She said that he touched her on the vagina, after which she leaned forward and “cov-
+ered [her]self.” T. 237-38. She said that she was angry after this incident because her
+father had promised he would not touch her after January 10. T. 238. The complain-
+ant said that a few days later, on Martin Luther King, Jr. Day, she told her mother
+10“like the main parts like my dad had sexual intercourse with me.” T. 239. The com-
+plainant's mother took her to Metropolitan Hospital to be examined, after which the
+hospital referred her to a Child Advocacy Center. T. 258-59.
+d. A Report of a Medical Examination at Metropolitan Hospital
+Contradicted the Complainant's Testimony About the Last In-
+cidents of Sexual Contact.
+The prosecution introduced into evidence a report from Metropolitan Hospital
+dated January 20, 2010—thus right after the complainant told her mother that Mr.
+Caceres had sexually abused her. See People's Exh. 2. According to the report, the
+complainant said that the “most recent episode” of abuse “was just after 1/1/10 and
+was exclusively vaginal intercourse; [the complainant] denies anal intercourse or any
+other forms of assault.” People's Exh. 2, “Chart Review Print” dated June 28, 2010,
+Initial Consult OB/GYN MD Consult dated Jan. 19, 2010 at 1. The same report con-
+tains a note dated January 20, 2010 saying the complainant said that the “last assault
+[was a] ‘few days after New Year[']s.'” Id. at 2 (quotation in original). A few pages lat-
+er, another note dated January 19, 2010 states that the complainant claimed that “yes-
+terday when she was in her pyjamas her biological father touched her private parts.”
+People's Exh. 2, “Chart Review Print” dated Jan. 18, 2010, ED MD Initial Note dated
+Jan. 18, 2010 at 1.
+11e. The Complainant Alleged That Mr. Caceres Emailed Her an
+Erotic Story in English About Incest, But Gave Contradictory
+Details Relating to When It was Sent and How She Received It.
+The complainant also testified that in December 2009, her father emailed her
+stories about father-daughter incest to her Yahoo e-mail account. T. 183-84. She said
+that she deleted two of the stories after Mr. Caceres directed her to, but “got distract-
+ed and [] forgot to delete” the third one. T. 184-85. The complainant said that she
+was in the CECOMEX office when her father sent the email she forgot to delete, and
+that just before he sent it, he “said, oh, I'm sending you an email.” T. 433. It “popped
+up right then and there,” and she “read it right there, when the email came.” Id. She
+said this occurred in the daytime, “like, early afternoon, somewhere around, after like
+midday.” Id. She said that her reaction after reading it was that she “looked over at
+[Mr. Caceres] and I'm like, really, why did you send this to me; he was just like, it was
+something to read.” T. 434.
+A printout of the email was introduced into evidence. See People's Exh. 30,
+Printout of Email dated Dec. 2, 2009. It indicated that it was sent from the email ad-
+dress soloparejas@msn.com and was sent to dominimexgirl@yahoo.com. Id. The
+name of the sender was listed as “Pepe y Karolina.” Id. Although the complainant had
+said it was sent and received in the middle of the day, the exhibit indicated that the
+email had been received at 12:56 AM. Id. The email's subject line was “Read This”
+and it told a story, which spanned several pages and was entirely in English, of a fa-
+ther engaging in incestuous sexual acts with his daughter. Id. But earlier the complain-
+12ant had testified that Mr. Caceres speaks only Spanish with her. T. 340. When asked,
+the complainant agreed that Mr. Caceres speaks “a little broken English, but that's
+about as far as it gets[.]” T. 340.
+John Forames, a forensic analyst who searched CECOMEX computers, later
+testified that internet search terms “solo parejas has [sic] MSN dot com” had been
+typed in on a computer at the CECOMEX offices. T. 954. Although other references
+to that email address had been found on the CECOMEX computers, Mr. Forames
+said that there was “not really enough information” to know how or why the refer-
+ences had appeared. T. 956.
+Tracy Ingle, the senior director of outreach for global criminal compliance for
+Microsoft, testified that the registration name associated with soloparejas@msn.com
+was “Pepe y Karolina,” the name of the sender of the email. T. 616, 632; People's
+Exh. 30. The phone number associated with the account was 917-912-3877, T. 620,
+which had no apparent connection to Mr. Caceres. According to the complainant, Mr.
+Caceres's phone number was 347-397-0366. T. 249. Additionally, the MSN.com ac-
+count registration information listed the subscriber's birthdate as August 3, 1969. T.
+632. Mr. Caceres's date of birth is April 13, 1967. Crim. Compl. at 2.
+f. The Prosecution Solicited Testimony About the “Elevator Inci-
+dent” and the Court Denied the Defense's Motion for a Mistri-
+al.
+During the complainant's direct testimony, the prosecutor asked her whether
+Mr. Caceres had “ever touch[ed] you on your body in a way that you didn't like[.]” T.
+13136. She responded that when she was eight years old, Mr. Caceres had touched her
+“in my private area” while they were in an elevator and he was “kind of drunk[.]” T.
+136. She claimed that she told her mother about the incident but that her mother
+dismissed it. T. 137-40. She claimed that the authorities became involved later, after
+she told her downstairs neighbor “Peaches” about the incident. T. 137. She said that
+officials came to her house and “talk[ed] to me about what I had told Peaches, and
+like they put me in a bedroom and they were checking for bruises and stuff.” T. 137.
+Afterward she was taken to the hospital and “interrogated,” at which point she re-
+canted the allegation. T. 138. She said that she recanted because her mother did not
+believe her and she wanted her mother to stop being angry with her. T. 139-40; see also
+T. 139 (testifying that she “got in trouble with mom” for “telling lies to people”).
+It was this during portion of her testimony that the complainant admitted to
+having lied to authorities about her mother breaking her nose by smothering her with
+a pillow. T. 139-40. The complainant testified that while her allegation involving the
+pillow was a lie, her claim that her father had touched her inappropriately in an eleva-
+tor was true. Id.
+After the complainant testified about the elevator incident, defense counsel
+moved for a mistrial, noting that the prosecution never made a Molineux application to
+admit this testimony about an uncharged crime. Defense counsel argued that the tes-
+timony “greatly prejudiced” Mr. Caceres. T. 177. The prosecution argued that the tes-
+timony was not subject to Molineux because it was “being offered to explain
+the rela-
+14tionship between the defendant and the witness,” and to “explore the clear credibility
+issues that the defense has already raised from the beginning of this trial.” Id. The trial
+court reserved decision on the mistrial motion. T. 177-78.
+The next day, defense counsel supplemented their3 mistrial motion by citing to
+several cases that show that a limiting instruction could not sufficiently cure the prej-
+udice caused by the admission of the inappropriate testimony. T. 206-10 (citing People
+v. Ventimiglia, 52 N.Y.2d 350 (1981); People v. Fleegle, 295 A.D.2d 760 (3d Dep't 1992);
+People v. Intelisano, 188 A.D.2d 881 (3d Dep't 1992); People v. Barranco, 174 A.D.2d 343
+(1st Dep't 1991)). Relying on these cases, counsel also argued that a mistrial was even
+more appropriate given that the “elevator incident” had been in the jurors' minds
+overnight. T. 209-10. “It's now been sitting in this jur[y's] minds for the last twelve
+plus hours, or more,” counsel noted, “that this is actually an ongoing [sic] pattern that
+this defendant has a propensity.” T. 210.
+Counsel also contended that the prosecution was well aware that they were go-
+ing to ask the complainant about this incident and, by not including it in their pre-trial
+Molineux application, they “did so at their own peril.” T. 209-10. Counsel further stat-
+ed that the prejudice to the defense from the testimony could not be “overcome” giv-
+en that the elevator incident allegedly occurred three years before the events at issue at
+trial. T. 210.
+3 Mr. Caceres was represented by two attorneys.
+15The prosecutor argued that the incident was not introduced to show Mr. Ca-
+ceres's propensity towards sexual abuse, but rather that the complainant was credible.
+T. 212. She argued that the complainant's mother's disbelief as to the elevator incident
+explained why the complainant waited so long to report her father's abuse for the
+charged offenses. T. 212.
+The prosecution also noted that the defense had failed to object to the testi-
+mony at the time that it was given. T. 211. Defense counsel responded that they had
+been shocked when they heard the testimony and did not know what the complainant
+was talking about. T. 215-16; see also T. 217 (“[W]e were just shocked[.]”); T. 220
+(same).
+Finally, the parties disputed whether the ACS records that had been provided
+to the defense as part of discovery included information of the elevator incident.
+While the prosecution claimed that they did, T. 211-12, 218, both defense attorneys
+emphatically claimed that the elevator incident was not mentioned in the records. T.
+216-17, 219-20.4
+The court ruled that the elevator incident “should not have been admitted be-
+cause we should have had a pretrial proceeding concerning that testimony.” T. 220.
+But it denied the defense's motion for a mistrial and instead offered to strike the tes-
+4 After the court issued a ruling on the mistrial motion, the prosecution noted that an ACS report
+dated September 4, 2004 said that “the father has touched the child in her vaginal area for sexual
+gratification.” T. 222. Defense counsel noted that there was no mention of this occurring in an ele-
+vator or of the complainant telling her mother about this incident. T. 222-23.
+16timony and to give a curative instruction to the jury “not to speculate and to disregard
+that testimony.” T. 220. Defense counsel declined this remedy, explaining that they
+feared that striking the testimony would preclude them from cross-examining the
+complainant about the incident. T. 221-22. They also argued that they did not believe
+the court's remedy would cure the error because “it's very hard for [jurors] to remove
+things from their mind, once it's been placed in their mind, and especially given a case
+which has such strong emotions as the one which is before this particular jury.” T.
+221. Defense counsel thus renewed the motion for a mistrial, which the trial court
+again denied. T. 222-23.
+2. Expert Testimony Regarding an Examination of the Complainant
+Did Not Corroborate the Complainant's Account.
+Both the prosecution and the defense called experts to testify about a physical
+examination of the complainant performed at the Child Advocacy Center at Metro-
+politan Hospital on February 1, 2010. See People's Exh. 1, Record of Examination at
+Child Advocacy Center.
+The prosecution called Dr. Jocelyn Brown, a child abuse pediatrician and pro-
+fessor of clinical pediatrics, who had performed the examination. T. 474, 483. Despite
+the complainant's testimony that her father last had sex with her as recently as a week
+before Martin Luther King, Jr. Day, Dr. Brown's examination found that the com-
+plainant's hymen showed no signs of “acute or chronic trauma,” and she found no
+vaginal bleeding or bruises. T. 492-93. Dr. Brown said she found an “indentation,” in
+17the hymen, which was a “concavity or irregularity that doesn't go all the way down to
+the base of the hymen.” T. 493. Dr. Brown testified that the indentation could either
+be “normal” or it could be a sign of sexual abuse. T. 493-94. She testified that if the
+hymen had suffered “blunt trauma,” it would result in a “transection.” T. 493. In that
+case, there would be “not just an indentation but a complete cleft,” referred to as a “V
+cleft.” T. 493. Having not examined the complainant previously, Dr. Brown said she
+could not determine the reason for the indentation in her hymen. T. 494.
+Dr. Gary Medows, a pediatrician who testified as an expert for the defense, also
+testified that the complainant's hymen had a serrated edge and “slight depression.” T.
+861. Like Dr. Brown, he testified that the depression could have been present from
+birth since irregularities in the hymen can be “normal.” T. 861-62, 887, 890. Dr.
+Brown stated that there was no such thing as a “virginity test,” because a high per-
+centage of sexually active girls had been found to have a hymen that appeared to be
+intact. T. 490. But Dr. Medows noted that these girls might not have experienced full
+penetration, which could result in a change to the appearance of the hymen. T. 888.
+He testified that “if somebody is having sexual intercourse with full penetration for a
+long period of time, they will have damage to the hymen,” such as “a laceration” or
+“stretching.” T. 888-89.
+Dr. Brown said that her findings were consistent with a history of sexual abuse,
+but she then suggested said that “consistent” and “conclusive” had essentially the
+same meaning. T. 509-10. She suggested that this was because the inconclusive find-
+18ings about the hymen could not be taken “in isolation,” noting that the complainant's
+past reports of vaginal bleeding suggested sexual abuse. T. 504. Dr. Medows, howev-
+er, testified that vaginal bleeding can have “numerous causes,” including an infection.
+T. 865. Dr. Brown's testimony did not note any attempt to rule out other causes for
+the reported vaginal bleeding.
+Dr. Brown also noted that when she asked the complainant about “behavioral
+or emotional symptoms,” the complainant said she was “not very hungry” at the time
+of the examination. T. 486-87. Dr. Brown said only that she “looked into” whether
+this indicated depression, but said nothing else about this. Id. Finally, Dr. Brown men-
+tioned that the complainant did not report suicidal ideation, a symptom that “is com-
+mon in a child having sexual abuse[.]” T. 486-87.
+3. Detective Hernandez's Testimony.
+Detective Hernandez of the New York City Police Department was the lead
+investigator on the case. T. 68. He testified that he spoke to the complainant for ap-
+proximately half an hour at Metropolitan Hospital on January 18, 2010, just after she
+reported the abuse. T. 38-40. The next day, Detective Hernandez listened in (from a
+separate room) as the complainant was interviewed by a forensic interviewer at the
+Child Advocacy Center. T. 40-42. When asked by defense counsel whether he was
+aware that the complainant alleged that Mr. Caceres had sexual intercourse with her
+on January 4, 2010, the detective responded, “Yes. Right after New Year[']s.” T. 72.
+19Detective Hernandez obtained search warrants for Mr. Caceres's apartment
+and for the CECOMEX office at 110th Street.5 T. 46. At neither location did the po-
+lice find any condoms or other contraceptives. T. 66-67. Additionally, the police
+seized several hard drives, a laptop, some CDs, and papers; none of them contained
+nude pictures of the complainant. T. 46, 53-54, 66-67.
+During Detective Hernandez's testimony, the prosecution entered into evi-
+dence 12 NYC condoms, which were still wrapped. See Photograph of People's Exh.
+12. The detective said that he “receive[d]” these condoms on January 30, 2010 from a
+forensic interviewer at the Manhattan Child Advocacy Center. T. 62-63. The condoms
+were not recovered from any search. T. 62. Rather, Detective Hernandez was told that
+they were given to the interviewer by the complainant. T. 62-63.
+4. Carmen Barrientos's Testimony.
+The testimony of Carmen Barrientos, the complainant's mother, was guarded
+and unfocused, much of it relating to information about her family and her relation-
+ship with Mr. Caceres. See, e.g., T. 686-89, 692-94 (several pages of discussion of the
+time period prior to and just after complainant was born); T. 735-38, 741-47 (Ms. Bar-
+rientos repeatedly stating that she does not remember information or does not under-
+stand questions during cross examination); T. 703-14 (describing her reactions in the
+days following the complainant's accusations in January 2010).
+5 Det. Hernandez refers to the office address as “307 East 10th Street” here, however this is presum-
+ably an error, as the elsewhere the address is referred to as 110th Street. See T. 53, 188-89.
+20What her testimony did establish was that Ms. Barrientos married Mr. Caceres
+in 2008, but he moved into her apartment with her and her children in 2001. T. 686,
+694. The complainant said Ms. Barrientos's daughter Usenia had lived with her until
+about 2008. T. 681-82. With Usenia living there, a total of five people, including the
+complainant, her mother, Mr. Caceres and Oliver (Ms. Barrientos' son), lived in their
+one-bedroom apartment. T. 697.
+Ms. Barrientos testified that she did not see any signs of tension between Mr.
+Caceres and the complainant, nor did she notice any signs of emotional disturbance,
+such as “cry[ing] uncontrollably.” T. 735.
+Ms. Barrientos stated that she never saw any “black bag” with vibrators and
+other sexual paraphernalia in her or Mr. Caceres's car, as the complainant had de-
+scribed. T. 747. However, she did testify that the items the complainant claimed the
+black bag contained, such as sex toys and pornography, were kept in the house be-
+cause Ms. Barrientos and Mr. Caceres used them in their sex life. T. 729-32.
+Ms. Barrientos also said that it was she who had given the NYPD the condoms
+the complainant claimed Mr. Caceres used to have sex with the complainant. T. 722-
+23. These condoms also could have been seen by the complainant in the apartment
+because Ms. Barrientos stated that she would often bring home boxes of condoms
+from CECOMEX and send them to her mother, where “two young boys live.” T.
+725.
+21Ms. Barrientos claimed she did not remember the complainant's false allega-
+tions that she was beaten with a hammer. T. 741. But she did remember another set
+of false allegations made to ACS by the complainant, when she was in the fourth or
+fifth grade. T. 766. Ms. Barrientos stated that “[ACS] would go to check because
+Vanessa had told them – had told them a little lie that I had hit her and then because
+of that they were seeing if the investigation, if it was true or not.” T. 766.
+As mentioned above, Ms. Barrientos also did not recall an incident involving
+her demanding that Mr. Caceres pull over because he was too drunk to drive, as the
+complainant had described. T. 745-46.
+5. Oliver Barrientos's Testimony.
+Oliver Barrientos, the complainant's half-brother, lived in the apartment with
+Mr. Caceres, the complainant, Ms. Barrientos (his and the complainant's mother), and
+Usenia (his and the complainant's sister) when he first moved to the United States in
+April 2008. T. 523, 527-28. He testified that on three occasions he came home early
+from work to find the apartment's door locked with the chain, preventing him from
+opening it. T. 532. Usually, he said, the door was locked with two security locks but
+the chain was not used. Id. He said that on the first and third occasions, he saw Mr.
+Caceres using the computer when he tried to open the door. T. 643-44, 648. On the
+second occasion, Mr. Caceres opened the door wearing a towel, after which he went
+into the apartment's bedroom for approximately 15-20 minutes. T. 647-48, 660. Oli-
+ver said that he “didn't think much of the fact that [Mr. Caceres] opened the door in a
+22towel.” T. 660. He also acknowledged that at the time, Mr. Caceres, Ms. Barrientos,
+and the complainant all shared the bedroom, and that he did not see what the com-
+plainant had been doing in the room T. 660-61. He also said that Mr. Caceres did not
+seem surprised to see Oliver home at that time. Id.
+6. Search of CECOMEX computers.
+John Forames, a forensic analyst in the Computer Forensics Unit at the New
+York County District Attorney's Office, testified that he had recovered data relating
+to incest pornography from the CECOMEX 110th Street office computers. T. 928,
+935-36, 939-40; see also T. 54-57 (computers given to NYPD Computer Forensic Unit
+were all recovered from CECOMEX 110th Street office pursuant to search warrant).
+He testified that he conducted a “keyword” search on a laptop and several hard drives
+found in the CECOMEX offices. T. 939-40. The keywords included “Dominimex
+girl,” “soloparejas,” and “incest.” Id.
+Prior to his testimony, the defense moved to preclude the introduction of most
+of the evidence introduced through Mr. Forames because the search results lacked
+dates or times indicating when the files were created or accessed. T. 924-26; see Peo-
+ple's Exhs. 47, 49. They argued that it was therefore impossible to know when the
+pornography had been viewed. Id. Counsel also argued that this evidence was irrele-
+vant and highly prejudicial. T. 924, 926. The prosecution responded that the defense's
+arguments go to the weight of the evidence, not its admissibility. T. 924-26. The court
+agreed and denied the defense's application. T. 926.
+23Mr. Forames testified that he found “nothing of significance” on most of the
+media he searched. T. 934, 936, 938. Two computers, entitled “PC-2” and “PC-3,”
+returned lists of files indicating that the computers had been used to search for incest
+pornography. T. 941-48. On PC-2 and PC-3, the keyword search returned lists of files
+showing that someone had conducted internet searches for incest pornography. PC-2
+had a user account entitled “Juan,” but there was no other information to indicate
+who had created the account. T. 975. PC-3 had a user account entitled “Juan Ca-
+ceres,” which had the password “FISH.” T. 967. Mr. Forames said that a file showing
+a search for “incest facts.com” was created on January 8, 2010, at 4:46:29 AM, and
+was last accessed on January 14, 2010 at 3:16:27 AM. T. 943. This indicated the web-
+site had been visited sometime between those two dates, but it was not possible to tell
+exactly when. T. 943. Although there were many files referencing incest pornography
+in the search results, this file was the only one on PC-2 with a corresponding date or
+time. See People's Exh 47. The files from PC-3 were created or accessed between 2006
+and 2009, but predominantly in 2008. See People's Exh. 49.
+Mr. Forames did not provide in his testimony the complete list of keyword
+searches he used. T. 939 (referring to multiple “set[s]” of keywords searched, but only
+giving a few examples of search terms). He admitted that the report of the search re-
+sults admitted into evidence was merely a summary of the original results of the
+search. T. 981-82. He also did not “remember exactly how many keywords were
+found on PC3[,]” T. 981, and also admitted that he deleted results he, his supervisors,
+24and the prosecutors determined to be “false positives,” as well as those they did not
+consider “relevant.” T. 981-82.
+7. Witnesses Consistently Testified That the CECOMEX Offices
+Were Small and Open to the Public, and That They Saw Nothing
+Inappropriate Between Mr. Caceres and the Complainant.
+Three people who frequented the CECOMEX office where Mr. Caceres
+worked testified at trial: Maria Sanchez and Sandra Perez, two of the organization's
+most frequent volunteers, and Dalia Tapia, Ms. Sanchez's daughter. T. 792, 794, 808-
+09, 892-94. They testified that most volunteers had keys to the office, and they fre-
+quently entered the office. T. 812, 900. The volunteers worked variable hours and
+were not required to report to anyone or give notice when they went into the office.
+T. 813, 923. Many volunteers brought their children with them. T. 794-95, 817-18,
+899. Sometimes the organization's members arrived very early in the morning, late at
+night, or on weekends, and several people often stayed overnight. T. 812, 818, 901.
+Maria Sanchez explained that the office was very small, the door was usually wide
+open, and one could see all the way to back of the office as soon as he or she stepped
+in. T. 819-20.
+Although the complainant claimed Mr. Caceres had sex with her in the middle
+of the day in the CECOMEX office, T. 164, 166, 338, none of these witnesses testi-
+fied to seeing anything inappropriate between Mr. Caceres and the complainant. Ms.
+Sanchez never saw Mr. Caceres and the complainant alone together in the office. T.
+828. Nor did she ever perceive any noticeable change in the complainant's behavior.
+25T. 830. Dalia Tapia was friends with the complainant and saw her around the office
+from time to time, including on the weekend. T. 794-95. She said that the complainant
+never indicated that she was afraid of her father, nor did she seem depressed. T. 799.
+Ms. Perez also noticed no signs of “problems or tension.” T. 903.
+8. A CECOMEX Volunteer Habitually Used the Computers to Ac-
+cess Pornography From 2008 Until September 2010.
+Ms. Sanchez testified that everyone in the organization had access to the
+CECOMEX computers, which were networked. T. 820-21. According to Ms. Perez,
+although people tended to use the same computers, they were permitted to use
+“[w]hatever computer was open, if anybody needed to use it they were able to use the
+computer.” T. 901. Ms. Sanchez testified that a man named Eloy Ruiz, who often
+slept in the office overnight, had been caught using the computers to search for por-
+nography in the past. T. 822-24. Mr. Ruiz would “search a lot of it. Whenever he
+would come in early in the morning.” T. 822. The pornography was “every kind of
+different pornography,” including that which featured “horses.” T. 833. Mr. Ruiz
+viewed so much pornography that computer viruses associated with it caused all the
+computers in the office to freeze up. T. 822. Ms. Sanchez testified that Mr. Ruiz's
+pornography habit peaked in 2008, but he continued to visit the office through Sep-
+tember of 2010—months after Mr. Caceres's arrest. T. 825.
+269. Summations.
+During summation, defense counsel highlighted numerous reasons to doubt
+the complainant's credibility. Counsel noted that the complainant had a long history
+of fabricating complaints resulting in ACS investigations. T. 1003-04. Counsel argued
+that the complainant was forced to lie about her allegations of sexual abuse against
+Mr. Caceres because, unlike on previous occasions when she fabricated complaints
+against her parents, her claims this time “ran ahead of her so fast, got out of control
+so quickly, she couldn't retract it, so she became entrenched in this.” T. 1002. He ar-
+gued that the complainant's knowledge about sex came from her having encountered
+condoms, pornography, or other sexual materials around the apartment, rather than
+abuse by her father. T. 1012-13.
+Counsel also noted that Mr. Caceres is alleged to have sex with the complainant
+at times and in places where he would have been easily caught, such as in the apart-
+ment in the middle of the day when Oliver Barrientos would come home, or at very
+busy times in the CECOMEX office. T. 1002, 1021-22. He noted that the complain-
+ant's story about her father's drunk driving was not recalled by her mother, even
+though the complainant said her mother was present during the incident. T. 1005. He
+pointed out that that no black bag with sex paraphernalia was ever found, despite the
+complainant's assertion that Mr. Caceres stored paraphernalia related to sex in it. T.
+1012. Defense counsel also noted that Dr. Brown's testimony was, at most, equivocal
+27about whether the examination of the complainant's hymen evidenced sexual penetra-
+tion. T. 1026-29.
+Defense counsel also highlighted the fact that the story about incest the com-
+plainant claimed to have received by email was in English, including the subject line
+“Read this,” even though Mr. Caceres speaks only broken English and everyone in the
+family spoke Spanish with each other. T. 1016-17. He pointed out that the email indi-
+cated that it had been sent near 1:00 AM, not in the middle of the day, as the com-
+plainant had testified. T. 1015-16. Defense counsel also argued that Eloy Ruiz was
+more likely responsible for the pornography-related files found on the CECOMEX
+computers. T. 1017-19.
+The prosecutor's closing argument primarily focused on establishing that the
+complainant was credible. T. 1036. She pointed to the fact that Ms. Barrientos and the
+complainant agreed on the date that the complainant told her mother that Mr. Caceres
+had abused her, T. 1038-39, and to the complainant's demeanor while testifying. T.
+1046. The prosecutor said that the question for the jury was “whether this [case] is a
+big conspiracy between the Barrientos family, the police, and the District Attorney.”
+T. 1035. She also stated that the jury had to decide “either that everybody is out to
+frame [Mr. Caceres] in order to get something in return or Juan Caceres, the defend-
+ant, actually committed these horrible crimes.” T. 1035.
+The prosecutor also argued that the complainant should be believed because
+she had not made more extreme accusations, such as claiming that Mr. Caceres beat
+28her or threatened to kill her. T. 1062-63. She also told the jury to “think of some of
+the things that you would expect to hear if this were a conspiracy,” such as the com-
+plainant saying that Mr. Caceres “threatened to kill Oliver too if he told anyone [that
+he came home to find the door chained and Mr. Caceres in a towel].” T. 1062-63.
+The prosecutor also argued that the complainant “wanted to make up what was hap-
+pening to her, she would have had an answer to everything.” T. 1048. Additionally,
+the prosecutor said to the jury, “In your gut, you know it's the truth. You know it in
+your head. You know it, you just know it.” T. 1045. The prosecutor also suggested
+that the complainant had no motive to lie, saying that “what she gains is nothing”
+from testifying. T. 1043; see also T. 1045 (prosecutor saying “[the complainant] gains
+nothing from this.”).
+The prosecutor also relied heavily on the “elevator incident”— which the court
+had previously ruled should never have been admitted — to explain why the com-
+plainant's testimony was trustworthy. T. 1052-53. She argued, citing this incident, that
+Mr. Caceres had previously abused the complainant, but her mother did not believe
+her because at “about nine years old she probably wasn't that articulate about what
+was happening.” T. 1053. She said the complainant's later denial of the story was a
+“false recantation.” T. 1053. The prosecutor told the jury that the elevator incident
+“set the stage for her, for her father to take advantage,” because as a result of that in-
+cident “[n]o one is going to ever to going to look at what she says and honestly think
+that she's telling the truth.” T. 1053. The prosecutor also urged the jury to see “that
+29history play[ed] out” in the charged crimes, and that it should use that history to figure
+out whether the complainant was “telling the truth.” T. 1053-54.
+The prosecutor also cleverly called attention to the fact that Mr. Caceres did
+not testify. She said, “The last thing I want to touch on is that, although the defendant
+didn't testify, absolutely his right. He did put on a case.” T. 1079.
+10. Verdict.
+The jury found Mr. Caceres not guilty of predatory sexual assault against a
+child. T. 1128-29. They found him guilty of rape in the second degree, endangering
+the welfare of a child, and criminal contempt in the second degree. Id.
+C. Sentencing.
+At the sentencing proceeding on March 1, 2011, the complainant and her
+mother made statements, S. 3-7. Afterward, Mr. Caceres made a statement maintain-
+ing his innocence. S. 12-18. The court then sentenced him to seven years' imprison-
+ment followed by 10 years' post-release supervision on the second-degree rape con-
+viction, to run concurrently with one year of imprisonment on the misdemeanor
+counts. S. 18-19.
+30ARGUMENT
+POINT I
+JUAN CACERES'S CONVICTION MUST BE REVERSED
+DUE TO THE INTRODUCTION OF THE COMPLAIN-
+ANT'S HIGHLY PREJUDICIAL TESTIMONY THAT MR.
+CACERES HAD SEXUALLY ABUSED HER YEARS PRIOR
+TO THE CHARGED INCIDENTS.
+A mistrial was the only appropriate remedy where the prosecution introduced,
+without a pretrial hearing on its admissibility, the complainant's testimony about an
+uncharged allegation that her father touched her vagina in an elevator several years
+prior to the charged crimes. See People v. Ventimiglia, 52 N.Y.2d 350, 359 (1981); People
+v. Gautier, 148 A.D.2d 280, 283-84 (1st Dep't 1989); People v. Barranco, 174 A.D.2d 343,
+344 (1st Dep't 1991). The trial court properly agreed with the defense that the com-
+plainant should not have been allowed to testify about these allegations because they
+should have been subject to a Molineux hearing. T. 220-23. But the court abused its
+discretion when it failed to grant a mistrial over defense counsel's strenuous objection,
+instead offering to strike the testimony and give a curative instruction. Barranco, 174
+A.D.2d at 344. As the defense argued, this remedy—offered a day after the testimony
+was introduced—was insufficient to erase the highly prejudicial impact of the inad-
+missible testimony. To the contrary, it would have just reminded the jurors of the in-
+flammatory testimony. Thus, by denying the defense's request for a mistrial, the trial
+court deprived Mr. Caceres his fundamental due process right to a fair trial. U.S.
+Const. Am. XIV; N.Y. Const. Art. I, § 6.
+31Evidence of uncharged crimes is generally inadmissible and cannot be admitted
+solely to show the accused's propensity toward criminal conduct. People v. Molineux,
+168 N.Y.2d 264, 313 (1901); People v. Resek, 3 N.Y.3d 385, 390 (2004). “The rule ex-
+cluding evidence of uncharged crimes is based upon the human tendency more readily
+‘to believe in the guilt of an accused person when it is known or suspected that he has
+previously committed a similar crime.'” Ventimiglia, 52 N.Y.2d at 359 (quoting
+Molineux, 168 N.Y. at 313). Evidence of an uncharged crime is admissible only when it
+is both relevant to a pertinent issue at trial (other than to establish a defendant's crim-
+inal propensity), and the probative value of the evidence outweighs the risk of preju-
+dice to the defendant. People v. Till, 87 N.Y.2d 835, 836 (1995); see also Resek, 3 N.Y.3d
+at 389–90. The risk of undue prejudice is particularly great when the uncharged act is
+“similar in nature” to the charged crime. People v. Foster, 295 A.D.2d 110, 113 (1st
+Dep't 2002).
+Because of the strong risk of prejudice, the accused is entitled to a ruling by the
+court outside the presence of the jury to determine whether such evidence is admissi-
+ble. Ventimiglia, 52 N.Y.2d at 361-62. It is improper for the prosecution to elicit the
+testimony and wait for the defense to object. Id. If the prosecution introduces the tes-
+timony without a hearing, there is not only a great risk of erroneous admission of the
+testimony, but the accused is deprived of a fair trial “even if his objection is sustained,
+in view of the questionable effectiveness of cautionary instructions in removing prior
+crime evidence from consideration by jurors.” Id.
+32A. A New Trial is Mandated Because the Prosecution Elicited Extreme-
+ly Prejudicial Uncharged Allegations of Sexual Abuse From the Com-
+plainant Without a Ventimiglia Hearing.
+The risk of undue prejudice resulting from uncharged allegations of sexual
+abuse is so great that if such testimony is improperly received, the remedy should be a
+new trial. In People v. Gautier, 148 A.D.2d 280, 281-82, 285-88 (1st Dep't 1989), this
+Court held that testimony that the defendant, who was accused of raping his two
+daughters, had either raped or sexually abused them prior to and after the charged in-
+cidents was inadmissible under Molineux. Recognizing that the testimony was prob-
+lematic, the trial court had issued several limiting instructions sua sponte to the jury to
+ignore the inadmissible testimony, but it denied the defense's mistrial motion. See id. at
+287. Nonetheless, this Court reversed the conviction, finding that “the import of the
+[inadmissible] testimony would not have been lost upon the jury.” Id. at 282.
+Similarly, a new trial was ordered in People v. Fleegle, 295 A.D.2d 760, 761 (3d
+Dep't 1992), where the defendant was charged with 31 counts each of rape, sodomy,
+and sexual abuse of a minor girl. No hearing was sought by the prosecution to deter-
+mine the admissibility of testimony that the defendant had begun abusing the com-
+plainant years before the charged offenses. Id. at 762-63. Although there was no ob-
+jection by the defense at trial, the Third Department found that the defendant's right
+to a fair trial was violated by the prosecution's admission of the testimony without a
+Ventimiglia hearing and without any limiting instructions from the lower court. Id. at
+762; see also People v. Intelisano, 188 A.D.2d 881, 883-84 (3d Dep't 1992) (where defend-
+33ant was charged with rape and the prosecution introduced testimony that he had beat-
+en and choked the victim for months prior to the first charged offense, the lower
+court's failure to conduct a hearing prior to admission of the evidence, as well as its
+failure to give a limiting instruction, warranted reversal, even though the error was
+unpreserved).
+Additionally, this Court has held that a trial court abuses its discretion when it
+fails to grant a mistrial after allowing the introduction of uncharged crime evidence to
+remain unaddressed overnight. In Barranco, 174 A.D.2d at 344, the defendant was
+charged with a drug sale and the prosecution conceded prior to trial that a police of-
+ficer's testimony that he discovered 11 vials of cocaine in the lobby of the building
+where the defendant lived was inadmissible under Molineux. Yet the officer nonethe-
+less testified to discovering the vials. Id. Defense counsel immediately moved for a
+mistrial, but the court reserved decision until the next day, when it denied the motion
+and issued a curative instruction. Id. This Court held that the denial was an abuse of
+discretion, noting that it was “particularly significant that the jurors had [the officer's]
+testimony in their minds overnight before they were given the curative instruction to
+disregard it.” Id. “Because the resulting prejudice was too great to be countermanded
+by a curative instruction, it was an abuse of discretion to deny defendant's motion for
+a mistrial.” Id. at 345.
+Here, the prosecution's introduction of the complainant's testimony about the
+alleged “elevator incident,” T. 216, was a flagrant violation of Molineux and Ventimiglia
+34that mandates reversal and a new trial. Without seeking a hearing as to the testimony's
+admissibility (even though it had requested a Molineux hearing related to other allega-
+tions, VD. 33-47), the prosecution here elicited testimony from the complainant that
+Mr. Caceres had touched her “in [her] private area,” T. 136-40, in an elevator when
+the complainant was about eight years old. This alleged incident would have occurred
+around 2003, about four years prior to the beginning of the first charged offense in
+2007. See Indictment at 1 (alleging offenses began in 2007); T. 81 (complainant born
+October 18, 1995).
+Defense counsel moved for a mistrial following this testimony and the court
+reserved decision until the next day. T. 177-78. The next day, defense counsel again
+argued that the introduction of the testimony mandated a mistrial, citing Ventimiglia,
+Fleegle, Intelisano, and Gautier. T. 206-10. Counsel noted that the court's decision to wait
+until the next day to determine how to handle the admission of the highly prejudicial
+testimony was especially problematic since the jurors sat with the inflammatory in-
+formation overnight. T. 209-10.
+The trial court ruled that the elevator incident should not have been admitted
+because there should have been a pre-trial hearing to determine its admissibility. T.
+220. But the court denied the defense's motion for a mistrial, instead offering to strike
+the testimony and offer a curative instruction to the jury “not to speculate and to dis-
+regard that testimony.” T. 220. Defense counsel declined this remedy, noting that the
+35damage had already been done, and again sought a mistrial, but the court refused to
+grant one. T. 220-23.
+As the trial court properly concluded, Mr. Caceres was entitled to a hearing
+outside the presence of the jury to determine whether the allegation that he had pre-
+viously sexually abused his daughter was more any probative than prejudicial. He was
+deprived of a fair trial when the prosecution completely disregarded this requirement,
+surprising the defense during the complainant's testimony. T. 215-17, 220. Given the
+extreme prejudice that inured to Mr. Caceres through the introduction of the testimo-
+ny, a mistrial was the only appropriate remedy. See Gautier, 148 A.D.2d at 283-84; Flee-
+gle, 295 A.D.2d at 761; Intelisano, 188 A.D.2d at 883-84.
+The prejudice was compounded by the fact that, as in Barranco, 174 A.D.2d at
+344, the trial judge offered to give a limiting instruction a day after the inadmissible
+testimony was already heard by the jury. Indeed, the prejudice here is even greater
+than it was in Barranco, since Mr. Caceres was accused not of selling a small amount of
+drugs, but of raping his daughter multiple times over the course of several years. Any
+suggestion that he had tried to touch the complainant inappropriately before the
+charged incidents was extremely prejudicial, especially because the uncharged allega-
+tion is “similar in nature” to the charged offenses. Foster, 295 A.D.2d at 113.
+As counsel argued below, at best a curative instruction would have been use-
+less, and at worst, it would have served only to remind the jury of the inadmissible tes-
+timony. The Court of Appeals has recognized the “questionable effectiveness of cau-
+36tionary instructions” when compared to the “human tendency more readily ‘to believe
+in the guilt of an accused person when it is known or suspected that he has previously
+committed a similar crime.'” Ventimiglia, 52 N.Y.2d at 359-62 (quoting Molineux, 168
+N.Y. at 313). Accordingly, defense counsel strenuously objected to the court's pro-
+posal to instruct the jury to disregard the testimony, because “it's very hard for [the
+jury] to remove things from their mind, once it's been placed in their mind, and espe-
+cially given a case which has such strong emotions as the one which is before this par-
+ticular jury.” T. 221. The nature of the accusations, along with the proposal of a cura-
+tive instruction a day too late, ensured that “[n]o curative instruction could remedy the
+prejudice which inevitably resulted from the jury hearing” the elevator incident testi-
+mony. Barranco, 174 A.D.2d at 344-45. Only a new trial can correct the deprivation of
+fundamental fairness that occurred here.
+B. Admission of the alleged elevator incident testimony was far from
+harmless.
+The admission of the highly prejudicial testimony of an uncharged sex crime
+was not harmless. As described in detail below, see Point III infra, the complainant suf-
+fered from serious credibility issues that called the veracity of her entire account into
+question. “The primary duty of the fact finder in this case was to determine whether
+the victim's statements describing the incestuous act[s] charged in the indictment were
+credible.” People v. Lewis, 69 N.Y.2d 321, 327-28 (1987) (ordering new trial after find-
+ing that the error was not harmless where defendant was accused of incest with teen-
+37age daughter and inadmissible Molineux testimony was introduced); see also Intelisano,
+188 A.D.2d at 884 (holding that admission of uncharged crime evidence was not
+harmless, where the case “turned heavily on issues of credibility”). This created a “se-
+rious danger that the jury used [the elevator incident testimony] to draw the impermis-
+sible inference” that Mr. Caceres “probably did it before, so he probably did it this
+time too.” People v. Hudy, 73 N.Y.2d 40, 56 (1988) (uncharged accusations of sexual
+molestation by one child, to bolster the allegations of eight other boys, were inadmis-
+sible under Molineux and not harmless).
+The Court especially should not find the error harmless since the prosecutor
+capitalized on its egregious Molineux violation by highlighting it during summation to
+make an argument about Mr. Caceres's propensity for sexual abuse. She argued that
+the incident in the elevator “set the stage for her, for her father to take advantage,”
+since her mother's reaction to the testimony made her think, “No one is going to be-
+lieve her ever.” T. 1053. She further reminded the jury that the complainant insisted
+during her testimony that the elevator incident was true. T. 1053. “It happened,” the
+prosecutor argued. T. 1053. The prosecutor also relied on the elevator incident to ar-
+gue that the jurors could conclude that the complainant was telling the truth when she
+stated that “history play[ed] out” in the charged crimes. T. 1053-54. In other words,
+the prosecutor argued that the complainant's testimony should be believed because
+Mr. Caceres allegedly got away with a similar uncharged crime in the past. These were
+clear appeals to Mr. Caceres's alleged propensity for sexual abuse to resolve the com-
+38plainant's credibility problems; they cannot have been harmless because they “fall[]
+within the core of what the Molineux rule prohibits and should therefore have been
+excluded.” Hudy, 73 N.Y.2d at 56.
+Further, the introduction of this testimony was not harmless because the testi-
+mony lacked any probative weight due to its lack of substantiation. See Lewis, 69
+N.Y.2d at 324, 327-28 (unsubstantiated testimony that complainant's father forced her
+to have sex more than 10 times prior to the charged offense of incest was not proba-
+tive because “a witness cannot buttress her own testimony by making further unsub-
+stantiated accusations”). Since “the [complainant's] testimony was the principal evi-
+dence of the crime,” it is not harmless to allow the complainant's alleged “cumulation
+of defendant's criminal acts [to] seriously prejudice [the] defendant in the eyes of the
+jury.” Id. at 328.
+As in Lewis, the “principal evidence of the crime” was the complainant's testi-
+mony, and the prosecution incorrectly argued that the unsubstantiated allegation bol-
+stered her severely damaged credibility. Id. Therefore, the admission of the elevator
+incident testimony was not harmless because the jury might have used it “to resolve
+any doubts it otherwise might have had.” Hudy, 73 N.Y.2d at 56.
+* * *
+In sum, by denying the defense's request for a mistrial, the trial court allowed
+the prosecution to, proverbially, have its cake and eat it too. The prosecution sur-
+prised the defense with the introduction of this highly prejudicial testimony. Then it
+39relied heavily on the testimony in summation, capitalizing on the defense's desire not
+to have the court highlight the damaging evidence by striking it and issuing a limiting
+instruction. Because the denial of the defense's motion for a mistrial violated Mr. Ca-
+ceres' right to a fair trial, this Court must reverse his conviction. U.S. Const. Am.
+XIV; N.Y. Const. Art. I, § 6.
+40POINT II
+JUAN CACERES WAS DEPRIVED OF A FAIR TRIAL
+WHEN THE PROSECUTION REPEATEDLY VOUCHED
+FOR THE CREDIBILITY OF ITS WITNESSES AND AT-
+TEMPTED TO SHIFT THE BURDEN OF PROOF TO MR.
+CACERES IN SUMMATION.
+During her summation, the prosecution repeatedly engaged in misconduct. She
+frequently vouched for the credibility of her witnesses and shifted the burden of
+proof to the defense. These egregious instances of prosecutorial misconduct violated
+Mr. Caceres' fundamental due process right to fair trial and require this Court's rever-
+sal of his conviction. U.S. Const. Am. XIV; N.Y. Const. Art. I, § 6.
+A. The Prosecution Repeatedly Vouched for the Credibility of Its Wit-
+nesses During Summation, Depriving Mr. Caceres of a Fair Trial.
+A defendant does not receive a fair trial when the prosecution vouches for the
+credibility of the prosecution's witnesses in summation. People v. Collins, 12 A.D.3d 33,
+37 (1st Dep't 2004) (citing People v. Bailey, 58 N.Y.2d 272 (1983)) (reversing defend-
+ant's conviction in the interest of justice). This Court and others have repeatedly rec-
+ognized that “the weight of the prestige of the office [of the District Attorney] and its
+image of disinterestedness may impose upon a defendant's right to an impartial trial.”
+Id.; see also People v. Ortiz, 33 A.D.3d 432, 433 (1st Dep't 2006) (conviction reversed in
+the interest of justice where the “prosecutor repeatedly vouched for the credibility of .
+. . two key witnesses with approving references to their status as law enforcement of-
+ficials”); People v. Mehmood, 112 A.D.3d 850, 853 (2d Dep't 2013) (prosecutor imper-
+41missibly vouched for the credibility of a witness based on his position as a law en-
+forcement officer).
+1. The Prosecution Impermissibly Argued That the Jury Could Only
+Acquit Mr. Caceres If It Believed Law Enforcement and the Dis-
+trict Attorney's Office Were Framing Mr. Caceres.
+This Court held in Collins that a prosecutor may not vouch for its witnesses by
+arguing that a defense could only be believed if all the prosecution witnesses were ly-
+ing. Id. at 37-38. There, the prosecution had argued that the jury “could not believe
+defendant's testimony that he was merely doing the undercover a favor by helping
+him buy drugs unless it believed that all the undercovers were lying[.]” Id. The Court
+reversed the conviction, finding that such vouching for the prosecution witnesses'
+credibility “[e]xceed[ed] the bounds of legitimate advocacy.” Id. at 37; see also People v.
+Forbes, 111 A.D.3d 1154, 1158-59 (3d Dep't 2013) (reversing where prosecutor's other
+misconduct “pale[d] in comparison to his statement that [to acquit], the jury
+had to
+accept that there was a far-reaching conspiracy to convict defendant
+,” which in-
+cluded the prosecutor going along with every witness lying and required law enforce-
+ment witnesses to risk their careers); People v. Jones, 134 A.D.3d 1588, 1589 (4th Dep't
+2015) (reversing in the interest of justice where prosecution improperly characterized
+the defense as being based on “a big conspiracy” against defendant by the prosecution
+and its witnesses); People v. Roman, 150 A.D.2d 252, 255 (1st Dep't 1989), vacated by rea-
+son of appellant's death, 153 A.D.2d 812 (1989) (prosecution improperly vouched for its
+42witness by asking “Why would he come into Court and frame Antonio Roman
+now?”).
+In summation here, the prosecutor made a similarly problematic argument. She
+told the jurors that they must decide whether there was a “big conspiracy between the
+Barrientos family, the police and the District Attorney's office to concoct charges
+against [Mr. Caceres].” T. 1035. And she further presented the jury with a dichotomy,
+saying that “it's either that everybody is out to frame him in order to get something in
+return or Juan Caceres, the defendant, actually committed these horrible crimes.” T.
+1035.
+These arguments improperly vouched for the credibility of the prosecution's
+witnesses by implying that the jury should not believe that the District Attorney's of-
+fice, together with the police, would get involved in a “conspiracy” to “frame” Mr.
+Caceres. T. 1035. The prosecution's statement was an appeal to the “prestige of the
+office,” and its “perceived disinterestedness.” Collins, 12 A.D.3d at 37-38; see also Jones,
+134 A.D.3d at 1589. As they did in Collins and Jones, the prosecution's arguments here
+deprived Mr. Caceres of a fair trial, requiring reversal.
+2. The Prosecutor Vouched for the Credibility of the Complainant
+Herself.
+A prosecutor may not argue in summation that its witness must be telling the
+truth because the witness had not made additional or more extreme accusations. Col-
+lins, 12 A.D.3d at 37-38. In Collins, the prosecutor said that a police officer could not
+43be lying because he did not make it “rock solid and really frame this defendant,” by
+“plant[ing] drugs on him” or “plant[ing] money.” Id.; see also Roman, 150 A.D.2d at
+256-57 (prosecution engaged in impermissible vouching for police officers by saying
+that if they had intended to frame the defendant “they could have come up with a
+gun; they could have put finger prints on it. They could have said he confessed. They
+could have gotten more witnesses”).
+In summation here, the prosecutor engaged in this misconduct. She argued that
+if the complainant really wanted to frame Mr. Caceres, then “why not make it sound
+like something you would hear at the movies,” such as that Mr. Caceres “smacked”
+and “whipped” her, or that “he really did use the vibrators on her,” or threaten to kill
+her or Oliver Barrientos. T. 1061-62. The prosecutor further argued that the com-
+plainant's testimony would have been more consistent if she were lying, because if the
+complainant “wanted to make up what was happening to her, she would have had an
+answer to everything.” T. 1048. The prosecution also insisted that the complainant
+had no motive to lie when she stated that by testifying, “what [the complainant] gains
+is nothing. She gains absolutely nothing.” T. 1043. See also T. 1045 (prosecutor saying,
+“[The complainant] has nothing to gain out of this. And so why did she come here?”).
+Likewise, it is well settled that a prosecutor may not express his or her personal
+belief or opinion as to the truth or falsity of any testimony or evidence. Bailey, 58
+N.Y.2d at 277; People v. McReynolds, 175 A.D.2d 31, 32 (1st Dep't 1991) (reversing in
+the interest of justice where prosecutor offered personal assurance that the testimony
+44produced was credible); People v. Pagan, 2 A.D.3d 879, 880-81 (2d Dep't 2003) (revers-
+ing in the interest of justice where prosecutor repeatedly vouched for complainant's
+credibility, stating that he was “candid” and being “forthright”); Forbes, 111 A.D.3d at
+1158 (holding that the prosecutor's comment “He's telling the truth” during summa-
+tion was “clearly impermissible”). In this case, the prosecutor vouched directly for the
+complainant's credibility by insisting that the complainant must be telling the truth
+because “[i]n your gut, you know it's the truth. You know it in your head. You know
+it, you just know it.” T. 1045. Just as a prosecutor cannot suggest to the jury that the
+complainant's testimony has a “ring of truth,” it is impermissible for her to argue that
+a juror knows her testimony is true in their gut. See People v. Griffin, 125 A.D.3d 1509,
+1510 (4th Dep't 2015) (reversing in the interest of justice because prosecutor repeat-
+edly vouched for the complainant, including saying the [complainant's statements]
+have “the ring of truth”). These additional instances of misconduct further demon-
+strate that reversal is required.
+B. The Prosecution Shifted the Burden of Proof Onto Mr. Caceres By
+Arguing That the Jury Could Acquit Only If It Found That the Prose-
+cution Witnesses Engaged in a “Conspiracy” or an Attempt to
+“Frame” Him, and By Drawing Attention to the Fact That He Did
+Not Testify.
+“[I]nstructing the jury that in order to find a defendant not guilty it must find
+that the prosecution witnesses lied is an impermissible attempt to shift the burden of
+proof from the People to the defendant.” Collins, 12 A.D.3d at 38 (internal quotations
+omitted); accord People v. Cantoni, 140 A.D.3d 782, 786-87 (2d Dep't 2016) (holding that
+45it was “clearly improper and prejudicial” to argue or imply that jurors were required to
+believe the defense testimony, and believe that prosecution witnesses were lying, in
+order to form reasonable doubt, warranting reversal in the interest of justice); People v.
+Porter, 136 A.D.3d 1344, 1346-47 (4th Dep't 2016) (citing People v. Morgan, 75 A.D.3d
+1050, 1053-54 (4th Dep't 2010)) (reversing in the interest of justice where prosecution
+shifted burden of proof by suggesting that an acquittal would require the jury to find a
+conspiracy by law enforcement). A prosecutor also may not “attempt to shift the bur-
+den by implying that the defendant has an obligation to introduce evidence.” Collins,
+12 A.D.3d at 38; see also Ortiz, 116 A.D.2d at 532 (impermissible for prosecution to
+imply that defendant had obligation to introduce evidence disproving complainant's
+allegations); People v. Pugh, 258 A.D.2d 674, 675 (2d Dep't 1999) (citing People v. Bull,
+218 A.D.2d 663, 665 (2d Dep't 1995)) (prosecutor in summation improperly shifted
+burden of proof by arguing defendant had to prove that the complainant was mistak-
+en and the investigating detective lied).
+Here, the prosecution engaged in this same misconduct when it mischaracter-
+ized Mr. Caceres's defense as one of a “big conspiracy” to “frame” him. These state-
+ments deprived Mr. Caceres of a fair trial because they implied that Mr. Caceres had
+failed to meet an obligation to introduce evidence in his defense. Collins, 12 A.D.3d at
+38. See also T. 1062-63 (prosecutor telling the jury to “think of some of the things you
+would expect hear if this were a conspiracy”). “The prosecutor erred...[by] implying
+that the jury was entitled to acquit only if it disbelieved the evidence actually present-
+46ed. The jury was, of course, also obligated to acquit if it found the evidence, even if
+completely reliable, insufficient to establish each element of the crimes charged be-
+yond a reasonable doubt.” People v. Levy, 202 A.D.2d 242, 245 (1st Dep't 1994).
+Finally, the prosecutor also shifted the burden of proof when it sought to have
+the jury draw a negative inference from the fact that Mr. Caceres had not testified. See
+People v. Harte, 29 A.D.3d 475, 476 (1st Dep't 2006) (reversing where prosecutor “in-
+vited the jury to ‘wonder why [defendant] chose not to testify'”). A prosecutor may
+not rely on the “implication [that the] defendant failed to testify and thereby deprived
+the jury of an opportunity to test [the defendant's] version of the story.” People v.
+LaDolce, 196 A.D.2d 49, 54 (4th Dep't 1994). Here, the prosecutor stated during
+summation that “[A]lthough the defendant didn't testify, absolutely his right[,] [h]e did
+put on a case,” after having previously implied that his case was not sufficient to
+prove the “conspiracy” against him. T. 1079. Although the prosecutor chose her
+words carefully, there can be no doubt that they were intended to draw negative atten-
+tion to Mr. Caceres's exercise of his right not to testify. There was no other reason for
+the prosecutor to mention the fact that Mr. Caceres had not testified. This prosecuto-
+rial misconduct is yet another reason for reversal.
+C. Due to the prosecutor's egregious errors in summation, this Court
+should reverse Mr. Caceres's conviction in the interest of justice.
+The prosecution's numerous instances of misconduct in summation warrant
+reversal and a new trial. Although defense counsel did not object to these statements,
+47they were so egregious that this Court should reverse in the interest of justice, as
+courts have done many times before. See McReynolds, 175 A.D.2d at 32; Ortiz, 33
+A.D.3d at 432; Porter, 136 A.D.3d at 1346; Griffin, 125 A.D.3d at 1510; Jones, 134
+A.D.3d at 1589; Forbes, 111 A.D.3d at 1158 n.6; Pagan, 2 A.D.3d at 880. Reversal in
+the interest of justice is warranted where the misconduct “has caused such substantial
+prejudice to the defendant that he
+has been denied due process of law.” Griffin, 125
+A.D.3d at 1511-12 (internal quotation omitted). Substantial prejudice occurs where, as
+here, persistent and repeated “improper remarks pass without objection or admon-
+ishment, and few curative instructions are given.” Id. at 1512 (quoting People v. Casano-
+va, 119 A.D.3d 976, 979 (3d Dep't 2014)).
+There is also a risk of substantial prejudice where a different result might have
+been reached without the misconduct. Id. at 1511-12. As discussed below, Point III
+infra, the complainant had severe credibility issues. Here, the prosecution's vouching
+for the credibility of its witnesses and shifting the burden onto Mr. Caceres risked
+causing the jury to resolve its doubts about the complainant's testimony in favor of
+the prosecution. Thus, reversal in the interest of justice is warranted because these
+“numerous” and “compounded” instances of misconduct allowed the prosecution to
+escape the fundamental burden of proving Mr. Caceres's guilt beyond a reasonable
+doubt. Porter, 136 A.D.3d at 1346.
+48POINT III
+THE VERDICT WAS AGAINST THE WEIGHT OF THE EV-
+IDENCE BECAUSE THE COMPLAINANT'S TESTIMONY
+WAS INCONSISTENT, CONTRADICTORY, IMPLAUSI-
+BLE, AND UNCORROBORATED AND THEREFORE
+WHOLLY INCREDIBLE.
+Mr. Caceres's conviction turned entirely on the credibility of the complainant,
+and she was simply not credible. The complainant admitted that she had repeatedly
+made up serious allegations of abuse against both of her parents, indicating that she
+was perfectly capable of making up allegations of sexual abuse against her father. T.
+140-41, 311-25. That all of her allegations in this case were false is illustrated by the
+fact that her testimony about the details of the last time her father had sex with her,
+which she claimed was in January 2010, was contradicted by medical and police rec-
+ords from when she first reported the allegations. Since Mr. Caceres' conviction for
+second-degree rape—the only felony of which he was convicted—was for having sex
+with the complainant in January 2010, see Indictment at 1, this Court should set aside
+that verdict as against the weight of the evidence and dismiss the indictment. Like-
+wise, because all of the complainant's testimony allegations were not credible, it
+should set aside his conviction for endangering the welfare of a child.
+This Court must review the weight of the evidence to determine whether,
+“based on all the credible evidence, a different finding would not have been unrea-
+sonable.” People v. Bleakley, 69 N.Y.2d 490, 495 (1987); see also N.Y. Crim. Proc. Law §
+470.15(5). “‘[E]ven if all the elements and necessary findings are supported by some
+49credible evidence, the court must examine the evidence further.'” People v. Cahill, 2
+N.Y.3d 14, 57-58 (2003) (quoting Bleakley, 69 N.Y.2d at 495). As the Court of Appeals
+has explained, “the weight of the evidence examination 
+ requires[] the court to af-
+firmatively review the record; independently assess all of the proof; substitute its own
+credibility determinations for those made by the jury in an appropriate case; determine
+whether the verdict was factually correct; and acquit a defendant if the court is not
+convinced that the jury was justified in finding that guilt was proven beyond a reason-
+able doubt.” People v. Delamota, 18 N.Y.3d 107, 116-17 (2011) (internal citations omit-
+ted). When “the trier of fact has failed to give the evidence the weight it should be ac-
+corded, then the appellate court may set aside the verdict.” Bleakley, 69 N.Y.2d at 495
+(citation omitted).
+A. The Second-Degree Rape Conviction was Against the Weight of the
+Evidence Because the Complainant's Testimony Contradicted the
+Claims She Made to Police and Hospital Staff in January 2010.
+New York courts have found verdicts in rape cases against the weight of the
+evidence where the complainant gave testimony that was inconsistent with the ac-
+count given at the time of the alleged offense. In People v. Zephyrin, 52 A.D.3d 543,
+543-44 (2d Dep't 2008), the court found that the complainant's testimony alleging that
+her husband raped her was “contradictory and incredible” because it “was not con-
+sistent with what she told police officers on the day of the incident,” and there was no
+other evidence to support the conviction.
+50Likewise, the only evidence of the alleged rape in this case was the complain-
+ant's contradictory testimony. Mr. Caceres was convicted of second-degree rape based
+on the allegation that “on or about January 9, 2010,” he had sexual intercourse with
+the complainant, who was 14 years old at the time. T. 1113 (jury charge); Indictment
+at 1. But the complainant's testimony about her father's behavior in January 2010 con-
+tradicted what she told medical staff and the police right when she first reported the
+alleged abuse—in January 2010.
+On the witness stand, the complainant claimed that her father last had sex with
+her on January 10, or January 11, 2010. T. 232. When asked why she knew it was one
+of these two dates, she said that she specifically remembered that it was a Saturday
+and a “week before Martin Luther King Day.” T. 232. January 9, 2010 was a Satur-
+day,6 which is likely why that is the date in the indictment.
+However, the complainant's testimony at trial (and presumably to the grand ju-
+ry) was contradicted by what she told the staff at Metropolitan Hospital who exam-
+ined her right after she first reported the abuse. According to a report dated January
+20, 2010, she said that the “most recent episode [of abuse] was just after 1/1/10 and
+was exclusively vaginal intercourse; [patient] denies anal intercourse or any other
+forms of assault.” People's Exh. 2, “Chart Review Print” dated June 28, 2010, Initial
+Consult OB/GYN MD Consult dated Jan. 19, 2010 at 1 (emphasis added). The same
+6 See “Calendar for January 2010,” timeanddate.com,
+www.timeanddate.com/calendar/monthly.html?year=2010&month=1.
+51report reiterates that the complainant said Mr. Caceres last assaulted her a “few days
+after New Year[']s.” Id. at 2. January 9, 10 or January 11 are significantly more than a
+“few days” after New Year's.
+Additionally, the complainant must have related a date much closer to New
+Year's when Detective Hernandez was investigating her allegations. When asked by
+defense counsel whether he was aware that the complainant alleged that Mr. Caceres
+had sexual intercourse with her on January 4, 2010, the detective responded, “Yes.
+Right after New Year[']s.” T. 72. Detective Hernandez interviewed the complainant
+on January 18, 2010—the day she reported the abuse—and listened to a forensic in-
+terview with the complainant at the Child Advocacy Center on January 19, 2010. T.
+38-42. Therefore, his testimony further indicates that she had initially told officials in
+January 2010 that that the last time Mr. Caceres had sex with her was right after New
+Year's, likely on January 4.
+A 14 year old can be expected to know the difference between “a few days af-
+ter New Year's” (or January 4), and a week before Martin Luther King Day (or Janu-
+ary 9, 10, or 11). In fact, the complainant testified at trial that she remembered in spe-
+cific detail the final time that her father had sex with her. See T. 233-35 (testifying that
+Mr. Caceres begged her to have sex and she acquiesced only after he said it would be
+the last time). The discrepancy between her trial testimony and what she told officials
+right after she reported the abuse shows that her story was false.
+52In other words, the complainant's statements right after she reported the abuse
+differed significantly from those she made on the stand. These discrepancies cannot
+be explained away by lapses in memory. Rather, they reveal that the complainant's tes-
+timony—and particularly with regard to any sexual act in January 2010—is untrust-
+worthy.
+As a result, this Court should set aside Mr. Caceres' conviction for second-
+degree rape because “the jury failed to accord the evidence the weight it should have
+been accorded.” See People v. Gonzalez, 84 A.D.3d 1400, 1401 (2d Dep't 2011) (revers-
+ing conviction for endangering the welfare of a child based on sexual abuse allegations
+because complainant was clearly found to be incredible and should have been acquit-
+ted on all charges).
+B. The Endangering the Welfare of a Child Verdict Was Against the
+Weight of the Evidence Because There Were Numerous Reasons to
+Believe That the Complainant's Testimony Was Entirely Fabricated.
+1. The Prosecution Expert's Examination Was Inconsistent with the
+Alleged Course of Sexual Abuse.
+Courts have repeatedly reversed verdicts as against the weight of the evidence
+where there is no medical evidence to support incredible testimony from the com-
+plainant. In People v. Franco, 11 A.D.3d 710, 710-11 (2d Dep't 2004), the court held
+that the verdict was against the weight of the evidence where the complainant testified
+that she was “continually subjected to vaginal and anal intercourse,” but “the medical
+evidence showed that she had an intact hymen with one discontinuity[.]” Id. The de-
+53fense expert also testified that “her physical condition was inconsistent with that of a
+young girl who had been repeatedly penetrated anally and vaginally by an adult male.”
+Id. Another verdict convicting the defendant of sexual conduct against a child was
+held to be against the weight of the evidence where there was “no medical evidence or
+proof of social maladjustment to support the allegation that sexual acts occurred be-
+fore the complainant was 11 years old[.]” People v. Otway, 71 A.D.3d 1052, 1053-55 (2d
+Dep't 2010); see also People v. Madison, 61 A.D.3d 777, 778-79 (2d Dep't 2009) (revers-
+ing rape verdict as against the weight of the evidence after noting that physical evi-
+dence corroborating complainant's account was absent).
+Here, the prosecution expert, Dr. Jocelyn Brown, examined the complainant
+and found nothing to indicate that she had engaged weekly in sexual intercourse for
+years, as the complainant claimed. The complainant testified that sexual intercourse
+with Mr. Caceres was a “basic routine,” occurring almost every weekend. T. 148, 167.
+But, as in Franco, 11 A.D.3d at 710-11, Dr. Brown found that her hymen had “no
+acute or chronic trauma.” T. 492-93. The only notable finding was that the hymen had
+an “indentation at [the] 6:00 [position].” T. 492-94. This indentation was a “concavity
+or irregularity that doesn't go all the way down to the base of the hymen.” T. 493. Dr.
+Brown testified that if a “blunt trauma” had occurred to the hymen, such as with pe-
+nile penetration, typically one would find “not just an indentation but a complete cleft,
+[which] we refer to as a V cleft,” which was not found. T. 493 (emphasis added). And
+here, also as in Franco, the defense expert, Dr. Gary Medows, testified that with re-
+54peated full penetration from sexual intercourse, the hymen would eventually rupture.
+T. 888-89; see Franco, 11 A.D.3d at 710-11.
+Both experts agreed that it was not possible to know the cause of the apparent
+indentation in the complainant's hymen. Dr. Brown conceded that it could be “nor-
+mal,” and it was certainly not proof of penetrating trauma. T. 504. She also testified
+that “you may have concavity in the hymen of a teenager and that may be normal for
+her.” T. 494. Likewise, Dr. Medows testified that the indentation could have been
+congenital. T. 861-62.
+The only other physical symptom the complainant reported was vaginal bleed-
+ing on two occasions. T. 496-97. Dr. Medows testified that such bleeding can have
+many causes, including infections or fibroids. T. 865. Dr. Brown also questioned the
+complainant about emotional or behavioral systems. T. 486-87. The only finding she
+reported was that the complainant said that she was “not very hungry” at the time of
+the examination, T. 487, which could have been the result of any number of causes.
+The complainant also denied suicidal ideation, a symptom which, according to Dr.
+Brown, “is common in a child having sexual abuse[.]” T. 486-87.
+The physical evidence here fails to corroborate the complainant's otherwise in-
+credible account. The lack of a complete cleft or rupture to the hymen discredits the
+complainant's claim that she had had sexual intercourse “every weekend” since the
+summer before seventh grade. T. 145, 148. The lack of physical evidence that she was
+“continually subjected to vaginal
+intercourse,” combined with an absence of any
+55clear indication of behavioral or emotional symptoms that would result from years of
+sexual abuse further indicates that her account was false. Franco, 11 A.D.3d at 710-11;
+Otway, 71 A.D.3d at 1053-55.
+2. The Complainant Had a Long History of Falsifying Abuse Allega-
+tions Against Her Parents.
+This case also bears similarity to Madison, in which there was evidence of the
+complainant's attempts to have rape allegations falsified. See Madison, 61 A.D.3d at
+778-79 (instant messenger conversations showed complainant attempted to convince
+another person to falsify allegations against defendant). This was not the first time
+that the complainant had invented detailed—but false—claims that her parents had
+severely harmed her, leading authorities to investigate. In 2002, she told staff at her
+school that injuries to her arms resulted from her parents beating her with a hammer,
+but it turned out that the complainant was actually biting herself. T. 311-13. At trial,
+the complainant admitted that she had “made the whole story up” about being beaten
+with a hammer. T. 315. She also admitted to falsifying allegations in 2003. T. 316.
+And, yet again, in 2009, she told a neighbor that her mother had broken her nose
+while trying to smother her with a pillow, but she admitted on the stand that the “pil-
+low and the nose [allegation] was a lie and it didn't happen[.]” T. 140-41.
+The complainant's mother also testified to other false allegations by the com-
+plainant, and contradicted the complainant's claims. Ms. Barrientos recalled a period
+56of regular visits from ACS to investigate “a little lie that [she] had hit [the complain-
+ant]” that the complainant told around 2006 or 2007.7 T. 766.
+The complainant's allegations caused ACS to investigate her family again in
+December 2009, when she claimed her parents drank excessively. T. 323. On the
+stand, the complainant denied specifically mentioning alcohol consumption, T. 323,
+but her mother testified that ACS had come to investigate whether she drank exces-
+sively. T. 741. The complainant admitted that when ACS came, she twice told investi-
+gators that there was no abuse or inappropriate behavior, including when her parents
+were not present with her and the investigator. T. 323-24. At trial, the complainant
+may have found herself caught in another lie: Ms. Barrientos also did not remember
+the incident the complainant described in which Ms. Barrientos forced Mr. Caceres to
+stop driving because he was too drunk. T. 325-26, 745-46.
+Although the complainant attempted to explain the 2002 incident as the prod-
+uct of having “made mistakes” when she “little,” T. 320, this pattern of lies against
+her parents spanned seven years and continued as late as December 2009—only a
+month before she accused Mr. Caceres of sexual abuse. T. 323. Defense counsel
+therefore rightly argued in summation that her allegations in this case were only the
+latest escalation in long history of false accusations, but in this instance, the situation
+7 Ms. Barrientos stated that the complainant told this lie when she was in fourth or fifth grade. T.
+766. Since the complainant was in ninth grade at the time of the trial in 2011, this implies that the
+complainant claimed her mother hit her in about 2006 or 2007. T. 1, 82.
+57“got out of control so quickly, she couldn't retract it, so she became entrenched in
+this.” T. 1002.
+3. The Complainant's Testimony Featured Numerous Other Contra-
+dictions and Lacked Corroboration.
+When the complainant's testimony is uncorroborated, self-contradictory, and
+inconsistent with other witnesses' testimony, courts have repeatedly set aside convic-
+tions for sexual abuse and sexual assault as against the weight of the evidence. See Peo-
+ple v. McMitchell, 110 A.D.3d 923, 923-925 (2d Dep't 2013) (complainants and their
+mother gave “contradictory and inconsistent testimony,” including about details re-
+garding circumstances of alleged course of sexual abuse by defendant, leading court to
+find conviction to be against the weight of the evidence); Zephyrin, 52 A.D.3d at 534
+(rape conviction was against the weight of the evidence where complainant's testimo-
+ny contradicted testimony of police officers and her own earlier account); Otway, 71
+A.D.2d at 1054-55 (conviction of course of sexual conduct against a child was against
+the weight of the evidence where “the conviction rested solely on the credibility of the
+complainant, and her testimony was inconsistent and not definite as to specific acts or
+times of the alleged sexual assaults”); Madison, 61 A.D.3d at 778 (noting that com-
+plainant's account not corroborated by other testimony or physical evidence and re-
+versing as against the weight of the evidence); Franco, 11 A.D.3d at 710-11 (“Once the
+trial court discredited the complainant's testimony, the record was devoid of any evi-
+dence that the defendant made contact with the complainant ‘for the purpose of grati-
+58fying sexual desire of either party.'”). Here, the complainant's testimony featured
+many inconsistencies and contradictions both within her own testimony and with that
+of other witnesses, and generally lacked corroboration.
+The complainant claimed that Mr. Caceres had sex with her in places where
+they could have been easily discovered, but in the several years she claimed Mr. Ca-
+ceres abused her, this never happened. The CECOMEX office on 110th Street, where
+the complainant claimed that Mr. Caceres had sex with her on multiple occasions,
+consisted of two rooms with no door separating them, and one could easily see the
+entire office upon entering. T. 336-37, 902. Volunteers often came and went from the
+office without notice to Mr. Caceres, and worked variable hours including on week-
+ends, late at night, and early in the morning. T. 812-13, 818, 901, 921-23. Yet, the
+three witnesses who frequented the CECOMEX office testified that they saw nothing
+that indicated anything inappropriate was occurring between Mr. Caceres and the
+complainant. T. 794-95, 799, 828, 830, 903.
+Likewise, in 2008, five people lived in the family's one-bedroom apartment, in-
+cluding Mr. Caceres, the complainant, Oliver Barrientos, Ms. Barrientos, and Usenia
+T. 88, 99-101, 403, 656. The complainant indicated the abuse occurred on a weekly
+basis, almost always in the living room. T. 104-05, 148, 156, 167. Yet Ms. Barrientos
+testified that she never noticed any signs of emotional disturbance in the complainant
+nor any tension between Mr. Caceres and the complainant. T. 735.
+59Oliver Barrientos testified that he once came home from work to find the
+apartment door locked with the chain, after which Mr. Caceres opened the door wear-
+ing a towel. T. 532. He said that Mr. Caceres and the complainant came out of the
+bedroom and left the apartment approximately 15-20 minutes later. T. 647-48, 660.
+But this occurrence did not indicate any sexual abuse. Mr. Caceres did not seem sur-
+prised to see Oliver, who was coming home from work at the normal time. T. 660.
+Mr. Caceres also shared the bedroom with the complainant and her mother at the
+time, so it made sense that he would be in the bedroom. T. 661. Oliver also testified
+that he did not see anything that occurred inside the bedroom, nor did he think much
+of seeing Mr. Caceres in a towel. T. 660-61.
+Moreover, just as the complainant's testimony contradicted her statements
+from January 2010 about when Mr. Caceres last had sex with her, her testimony also
+contradicted other details she gave to police in January 2010 about the alleged prior
+course of abuse. The complainant first stated that Mr. Caceres used black NYC brand
+condoms during sex, which she said the CECOMEX office gave out for free, T. 151,
+153-54, but then admitted she told the police that he purchased Trojan condoms from
+Duane Reade. T. 368.
+The condoms in evidence the complainant claimed Mr. Caceres used were giv-
+en to Det. Hernandez through a police interviewer by Ms. Barrientos, who found
+them in her own car. T. 61-62, 723-24. But they may have been left there by Ms. Bar-
+rientos herself, since she testified that she regularly sent condoms to her family in the
+60Dominican Republic. T. 725. The complainant also first claimed that the condoms
+were kept in black bag that was stored Mr. Caceres's car, T. 158-59, 345, but later in-
+sisted that the condoms were kept in a cabinet or a drawer in the apartment, T. 365-
+66. These inconsistencies reveal that she was making up details each time she was
+asked, especially because no black bag was ever found. T. 66-69 (NYPD did not re-
+cover any black bag after search warrants); T. 747 (complainant's mother never found
+any black bag in the car).
+The complainant also testified that she never drank alcohol prior to the inci-
+dent where she claimed her father got her and her sister drunk at a hotel, and that she
+never drank alcohol after it. T. 393. But defense counsel showed her a photo she had
+posted to her MySpace account with her holding a beer. T. 393-94. She then admitted
+that she asked her father if she could have it, and that she did drink from it. T. 394-95.
+Furthermore, she testified that Mr. Caceres took nude pictures of her, and kept
+vibrators, pornography and lubrication in the black bag in the car. T. 182-83, 428-29,
+444-45. But Detective Hernandez obtained search warrants for the CECOMEX office
+and Mr. Caceres's apartment and found no nude pictures of the complainant on any
+of the digital media that were seized, nor did he find any black bag with sexual para-
+phernalia. T. 46, 53-54, 66-69.
+The Metropolitan Hospital report contradicted the complainant's testimony as
+well. According to the report, the last incident of sexual assault was sexual intercourse
+a “few days after New Year[']s.” People's Exh. 2, “Chart Review Print” dated June 28,
+612010, Initial Consult OB/GYN MD Consult dated Jan. 19, 2010 at 2. But the com-
+plainant testified that after Mr. Caceres had sex with her on January 10 or 11, he con-
+tinued to touch her on the vagina “like almost every day,” “whenever he could,” until
+January 17, 2010. T. 236-37.
+During her testimony, the complainant claimed to recall specific details about
+this persistent touching, none of which she reported to Metropolitan Hospital. For
+instance, she said that on January 17, in the CECOMEX office, Mr. Caceres touched
+her vagina by reaching over while she was sitting in a chair at a computer. T. 237-38.
+She said that was she angry that he had promised he would stop, but he had not, after
+which she told her mother about Mr. Caceres's abuse. T. 238-39. But the medical re-
+port contains a note saying that the complainant was seen on January 18 and that she
+claimed that “yesterday” [i.e., on January 17] Mr. Caceres touched her while she was
+“in her pyjamas.” People's Exh. 2, “Chart Review Print” dated Jan 18, 2010, ED MD
+Initial Note dated Jan. 18, 2010 at 1. Thus, her testimony and the medical note con-
+tain different sets of facts about the same event. Namely, she did not mention being
+in her pajamas on the witness stand (nor is it likely that she wore her pajamas to the
+CECOMEX office).
+624. Other Evidence Regarding Files Related to Incest Pornography
+Searches and an Email Mr. Caceres Allegedly Sent to the Com-
+plainant Lacks Connection to Mr. Caceres and Must Be Disre-
+garded.
+a. Incest Pornography Search Files Could Have Resulted From
+Eloy Ruiz's Long-Term, Habitual Use of the Office Computers
+for Pornography.
+Although the prosecution entered a forensic report listing files that indicated
+the CECOMEX office computers had been used to search for incest pornography,
+these files likely came from another volunteer, Eloy Ruiz. T. 822-24. Mr. Ruiz had
+been repeatedly caught using the CECOMEX computers to view pornography
+“whenever he would come in early in the morning.” T. 822. Mr. Ruiz had been using
+the computers for pornography since at least 2008, and he worked at CECOMEX un-
+til September 2010, overlapping with the period that the complainant claimed Mr. Ca-
+ceres sexually abused her by several years. T. 825.
+Tellingly, the majority of the files had no dates or times associated with them.
+See People's Exh. 47, 49. The files that did have dates or times were consistent with
+Mr. Ruiz's use of the computers. See People's Exh. 49 (dates and times associated with
+files occurring late at night or early in the morning, and largely between 2007 and
+2009); T. 825 (Mr. Ruiz's pornography habit was at its height in 2008). There was also
+nothing to indicate who was actually using the computers when the files were created.
+T. 972 (forensic analyst testifying that it was not possible to tell how many different
+people had access to various user accounts on CECOMEX computers).
+63Although the search files showed specific references to incest, the volunteer
+Maria Sanchez observed that Mr. Ruiz was interested in “every kind of different por-
+nography,” including perverse or extreme kinds of pornography, such as that which
+featured “horses.” T. 833. Furthermore, the forensic analyst may have deleted any-
+thing that could have distinguished between users. Mr. Forames admitted that a larger
+list of keywords had been generated as a result of the search, and he, in conjunction
+with the prosecution and his supervisors, deleted what they did not consider “rele-
+vant.” T. 981-82. Thus, the list of files in evidence may have been tailored to appear as
+though it resulted from someone specifically interested in incest, when it actually re-
+flects only a subset of Mr. Ruiz's interest in “every different kind of pornography.” T.
+833.
+The complainant also claimed that Mr. Caceres sent her an email relating a sto-
+ry about father-daughter incest, but there was no evidence that the email address be-
+longed to Mr. Caceres. The sender email address was soloparejas@msn.com. See Peo-
+ple's Exh 30. The name of the sender, and the name registered with this address was
+“Pepe y Karolina.” People's Exh. 30; T. 632. The phone number registered with the
+account was not Mr. Caceres's. See T. 620 (phone number registered with account was
+917-912-3877); T. 249 (Mr. Caceres's phone number is 347-397-0366). The MSN.com
+account registration information listed the subscriber's birthdate as August 3, 1969. T.
+632. Mr. Caceres's date of birth is April 13, 1967. Crim. Compl. at 2. Nothing showed
+that Mr. Caceres had ever used the address. T. 956 (some references to email address
+64appeared on CECOMEX computers but forensic analyst could not determine what
+they meant).
+Significantly, the email and its subject line were entirely in English. See People's
+Exh. 30. Yet, the complainant testified that Mr. Caceres conversed with her only in
+Spanish, and speaks only a “little broken English.” T. 340.
+Second, the complainant claimed that she received the email “like, early after-
+noon, somewhere around, after like midday.” T. 433. She said Mr. Caceres told her he
+was sending her an email, and then he sent it. T. 433. The email then “popped up
+right then and there,” and she “read it right there, when the email came.” T. 433. Yet
+the email indicated that it was received in the middle of the night, at 12:56 AM. See
+People's Exh. 30.8
+In sum, this Court should deem unpersuasive the evidence relating to the
+CECOMEX computers and the email that the complainant claimed she received from
+Mr. Caceres. While they were highly prejudicial, they were not probative because the
+8 There was some confusion introduced by the prosecution as to whether 12:56 AM really meant
+5:56 AM or 8:56 PM the previous day, since other printouts of information related to the time the
+email was received showed the timestamp as “5:56:00 GMT -500.” See T. 1016 (defense counsel ex-
+plaining timestamp, refuting the prosecution's earlier suggestion that the email was received around
+9 PM). GMT refers to Greenwich Mean Time. See “UTC – The World's Time Standard”, time-
+anddate.com, www.timeanddate.com/time/aboututc.html. An email sent from the Eastern Stand-
+ard Time Zone (EST) will have the time zone listed as “-0500” in the header of the email, which
+indicates that Eastern Time is 5 hours behind Greenwich Mean Time. See “EST – Eastern Standard
+Time / Eastern Time (Standard Time)”, www.timeanddate.com/time/zones/est. 5:56 AM Green-
+wich Mean Time would therefore be 12:56 AM Eastern Standard Time. Accordingly, a screenshot of
+the complainant's email account and the printout of the email itself shows that the email was re-
+ceived at 12:56 AM. See People's Exhs. 30, 45E, 45F. In any case, the time stamp did not show that
+the email was received in the “early afternoon” or “right after midday” as the complainant claimed.
+T. 433.
+65prosecution did not show any link to Mr. Caceres. Indeed, they could only have mis-
+directed the jury from the complainant's severe lack of credibility.
+As a final note, the jury acquitted Mr. Caceres of predatory sexual assault on
+the basis of the same incredible testimony that supported his charges for second-
+degree rape and endangering the welfare of a child. Courts have repeatedly found ver-
+dicts to be against the weight of the evidence when the same incredible testimony
+supporting the charges the jury acquitted on were the sole basis for the charges the
+jury convicted on. See People v. Fisher, 104 A.D.3d 868, 869-70 (2d Dep't 2013) (“Once
+the jury discredited the complainant's testimony with respect to the charges of rape
+and criminal sexual act, the record was devoid of any evidence that the defendant
+‘knowingly act[ed] in a manner likely to be injurious to the physical, mental or moral
+welfare of a child
+.”); Otway, 71 A.D.3d at 1053-55 (jury had acquitted defendant on
+numerous related counts of child sexual abuse, indicating that the complainant was
+wholly incredible); Gonzalez, 84 A.D.3d at 1401 (verdict was against the weight of the
+evidence on several counts where same incredible testimony supported acquittal on
+three other counts); Franco, 11 A.D.3d at 710 (guilty verdict against the weight of the
+evidence where “[i]t [was] clear that the trial court acquitted the defendant of the nine
+remaining sex offenses based on the credibility of the witnesses”).
+The verdicts convicting Mr. Caceres of second-degree rape and endangering
+the welfare of a child were therefore against the weight of the evidence. This Court
+should set aside these verdicts and dismiss those charges of the indictment.
+66CONCLUSION
+For the foregoing reasons, this Court must reverse Mr. Caceres's conviction
+and order a new trial, or in the alternative, this Court should set aside the verdicts for
+second-degree rape and endangering the welfare of a child as against the weight of the
+evidence and dismiss those charges of the indictment.
+Dated: New York, New York
+June 29, 2018
+Respectfully submitted,
+Christina Swarns, Esq.
+Attorney for Defendant-Appellant
+Lauren Stephens-Davidowitz, Esq.
+Senior Staff Attorney
+by: ________________________
+David Billingsley, Esq.
+dbillingsley@appellatedefender.org
+Staff Attorney
+Office of the Appellate Defender
+11 Park Place, Suite 1601
+New York, New York 10007
+212.402.4100
+67ADDENDA
+Supreme Court of the State of New York
+Appellate Division: First Department
+The People of the State of New York,
+Respondent,
+— against — Ind. No. 473-2010
+Juan Caceres,
+Defendant-Appellant.
+Statement Pursuant to Rule 5531
+1. The indictment number in the court below was 473-2010.
+2. The full names of the original parties were “The People of the State of New
+York” against “Juan Caceres.”
+3. This action was commenced in Supreme Court, New York County.
+4. This action was commenced by the filing of an indictment.
+5. This is an appeal from a judgment of conviction rendered on April 13, 2011, by
+Supreme Court, New York County. Mr. Caceres was convicted after trial of
+one count of rape in the second degree, N.Y. Penal Law § 130.30(1), one count
+of endangering the welfare of a child, N.Y. Penal Law § 260.10(1), and one
+count of criminal contempt in the second degree, N.Y. Penal Law § 215.50(3).
+Mr. Caceres was sentenced to seven years' imprisonment and ten years' post-
+release supervision on the rape count and one year on the remaining counts, all
+to be served concurrently. Justice Carol Berkman presided over the pre-trial
+hearing. Justice Bruce Allen presided over the trial and sentencing. Timely no-
+tice of appeal was filed. No stay of execution has been sought. Mr. Caceres has
+been released following the completion of his sentence of imprisonment.
+6. Mr. Caceres has been granted leave to appeal as a poor person on the original
+record and typewritten briefs.
+A-1Supreme Court of the State of New York
+Appellate Division: First Department
+The People of the State of New York,
+Respondent,
+— against — Ind. No. 473-2010
+Juan Caceres,
+Defendant-Appellant.
+Printing Specification Statement
+1. The following statement is made in accordance with First Department Rule
+600.10.
+2. Juan Caceres's brief was prepared with Microsoft Word 2010 with Garamond
+typeface 14 point in the body and 12 point in the footnotes.
+3. The text of the brief has a word count of 17,144, as calculated by the pro-
+cessing system and is 67 pages.
+A-2

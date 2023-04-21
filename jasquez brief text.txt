@@ -1,0 +1,321 @@
+To be argued by:
+David Billingsley
+15 minutes requested
+SUPREME COURT OF THE STATE OF NEW YORK
+APPELLATE DIVISION: FIRST DEPARTMENT
+THE PEOPLE OF THE STATE OF NEW YORK,
+Respondent,
+-against-
+RANDY JASQUEZ,
+Defendant-Appellant.
+BRIEF FOR DEFENDANT-APPELLANT
+RANDY JASQUEZ
+Ind. Nos. 205-2015 & 4420-2015
+CHRISTINA SWARNS, ESQ.
+Attorney for Defendant-Appellant
+EUNICE C. LEE, ESQ.
+Supervising Attorney
+By: DAVID BILLINGSLEY
+Staff Attorney
+OFFICE OF THE APPELLATE DEFENDER
+11 Park Place, Suite 1601
+New York, NY 10007
+(212) 402-4100
+dbillingsley@oadnyc.orgiTABLE OF CONTENTS
+TABLE OF CONTENTS ........................................................................... ii
+TABLE OF AUTHORITIES .................................................................... iii
+PRELIMINARY STATEMENT ................................................................. v
+QUESTION PRESENTED ........................................................................ 1
+STATEMENT OF FACTS ......................................................................... 2
+ARGUMENT ............................................................................................. 4
+POINT .................................................................................................... 4
+RANDY JASQUEZ’S INDETERMINATE PRISON TERM OF ONE-
+AND-A-THIRD TO FOUR YEARS FOR WEAPON POSSESSION,
+COMBINED WITH TWO YEARS’ IMPRISONMENT AND THE
+MAXIMUM THREE-YEAR TERM OF POST RELEASE
+SUPERVISION FOR ATTEMPTED ROBBERY, WAS UNDULY
+HARSH AND EXCESSIVE GIVEN HIS YOUTH, REDUCED
+CULPABILITY, AND POTENTIAL FOR REHABILITATION. ....... 4
+CONCLUSION ........................................................................................ 11
+ADDENDA ................................................................................................. 1
+Statement Pursuant to Rule 5531 ..................................................... A-1
+Printing Specification Statement ...................................................... A-2
+iiTABLE OF AUTHORITIES
+Cases
+In re Umer K., 257 A.D.2d 195 (1st Dep’t 1999) ....................................... 9
+Miller v. Alabama, 567 U.S. 460 (2012) ........................................ 5, 6, 7, 8
+People v. Carter, 74 A.D.3d 1375 (3d Dep’t 2010) ..................................... 6
+People v. Charles, 124 A.D.3d 986 (3d Dep’t 2015) ................................... 9
+People v. Delgado, 80 N.Y.2d 780 (1992) .................................................. 5
+People v. Dyer, 60 A.D.3d 690 (2d Dep’t 2009) .......................................... 6
+People v. Fernandez, 84 A.D.3d 661 (1st Dep’t 2011) ............................... 5
+People v. Hampton, 113 A.D.3d 1131 (4th Dep’t 2014) ............................ 6
+People v. Matias, 161 A.D.2d 292 (1st Dep’t 1990) ................................... 7
+People v. Notey, 72 A.D.2d 279 (2d Dep’t 1980) .................................... 5, 9
+People v. Pagan, 159 A.D.2d 6 (1st Dep’t 1990) ........................................ 9
+People v. Reyes, 89 A.D.3d 401 (1st Dep’t 2011) ....................................... 5
+People v. Roldan, 222 A.D.2d 132 (1st Dep’t 1996) .................................. 7
+People v. Strawbridge, 299 A.D.2d 584 (3d Dep’t 2002) ........................... 7
+People v. Thompson, 60 N.Y.2d 513 (1983) ............................................... 5
+People v. Wiggins, 24 A.D.3d 263 (1st Dep’t 2005) ................................... 5
+People v. Wilt, 18 A.D.3d 971 (3d Dep’t 2005) .......................................... 7
+Statutes
+N.Y. Penal Law § 110 ................................................................................ 3
+N.Y. Penal Law § 160.10 ........................................................................... 3
+iiiN.Y. Penal Law § 265.02 ........................................................................... 3
+N.Y. Penal Law § 70.02 ....................................................................... 9, 10
+N.Y. Penal Law § 70.45 ............................................................................. 9
+ivSupreme Court of the State of New York
+Appellate Division: First Department
+The People of the State of New York,
+Respondent,
+— against — Ind. Nos. 205-2015 &
+4420-2015
+Randy Jasquez,
+Defendant-Appellant.
+PRELIMINARY STATEMENT
+This is an appeal from a judgment rendered on March 25, 2016, by
+Supreme Court, New York County. Randy Jasquez was convicted after
+guilty pleas of one count of Attempted Robbery in the Second Degree,
+N.Y. Penal Law §§ 110 & 160.10(1), under Indictment No. 205-2015,
+and one count of Criminal Possession of a Weapon in the Third Degree,
+N.Y. Penal Law § 265.02(1), under Indictment No. 4420-2015. Mr.
+Jasquez received two years’ imprisonment and three years’ post-release
+supervision on the robbery count, to run concurrently with one-and-a-
+third to four years’ imprisonment on the weapon possession count.
+Justice Michael Sonberg presided over the pleas and sentencing.
+Timely notice of appeal was filed. No stay of execution has been sought.
+Mr. Jasquez is currently serving his term of imprisonment.
+vQUESTION PRESENTED
+Was Randy Jasquez’s indeterminate sentence of one-and-a-third
+to four years for weapon possession, combined with two years’
+imprisonment and the maximum three-year term of post-release
+supervision for attempted robbery, unduly harsh and excessive given
+his youth and his reduced culpability and potential for rehabilitation?
+1STATEMENT OF FACTS
+As a teenager, Randy Jasquez had some run-ins with the law. On
+January 6, 2015, at approximately 1:40 AM, Randy Jasquez approached
+a person inside of the building at 142 Laurel Hill Terrace and showed
+them a gun, demanding money, while another unknown individual
+waited outside as a lookout. Presentence Investigation Face Sheet
+(hereinafter, “PSI”) at 3. Mr. Jasquez took from this person a cell-
+phone, a backpack, and $10 in cash, and threw these items to the
+lookout, who left the scene. Id. This entire incident was captured on
+video, leading the police to identify and arrest Mr. Jasquez. Id. Mr.
+Jasquez was indicted and charged with first-degree and second degree
+robbery. See Indictment No. 205-2015.
+On October 22, 2015, Mr. Jasquez was out on bail from the
+robbery case when he was stopped at 2:05 AM by police in the subway
+station at 42nd Street and 8th Avenue after jumping a turnstile. The
+police found that Mr. Jasquez was carrying a switchblade. PSI at 3. As
+a result, he was charged with weapon possession and theft of services.
+See Indictment No. 4420-2015. Mr. Jasquez was 18 years old at the time
+2of both of these offenses, and he was employed as a gardener. PSI at 1,
+5.
+On March 11, 2016, during a hearing in the robbery case, Mr.
+Jasquez pled guilty to one count of Attempted Robbery in the Second
+Degree, N.Y. Penal Law §§ 110 & 160.10(1), in satisfaction of
+indictment 205-2015, and Criminal Possession of a Weapon in the Third
+Degree, N.Y. Penal Law § 265.02(1), in satisfaction of indictment 4420-
+2015. P. 49-531. Mr. Jasquez admitted his guilt to the probation
+department in both offenses, stating that he “had [the switchblade] for
+protection.” PSI at 4. As to the robbery, he “professed no motive.” Id.
+Mr. Jasquez had no prior felonies, although he did have three
+previous youthful offender adjudications. PSI at 4. On March 25, 2016,
+Mr. Jasquez was sentenced to one-and-a-third to four years’
+imprisonment, to run concurrently with two years’ imprisonment and
+three years’ post release supervision on the attempted robbery
+conviction. S. 5-6.
+1 Citations to “P” refer to the combined hearing and plea proceedings that took place
+on March 11, 2016. Citations to “S.” refer to sentencing proceedings that took place
+on March 25, 2016.
+3ARGUMENT
+POINT
+RANDY JASQUEZ’S INDETERMINATE PRISON
+TERM OF ONE-AND-A-THIRD TO FOUR YEARS FOR
+WEAPON POSSESSION, COMBINED WITH TWO
+YEARS’ IMPRISONMENT AND THE MAXIMUM
+THREE-YEAR TERM OF POST RELEASE
+SUPERVISION FOR ATTEMPTED ROBBERY, WAS
+UNDULY HARSH AND EXCESSIVE GIVEN HIS
+YOUTH, REDUCED CULPABILITY, AND POTENTIAL
+FOR REHABILITATION.
+Randy Jasquez’s offenses are representative of the recklessness
+and failure to appreciate consequences that all youth possess,
+categorically reducing his culpability. Given Mr. Jasquez’s youth, his
+lack of prior felonies, and his record of employment, Mr. Jasquez shows
+potential for rehabilitation. He was sentenced to a term of one-and-a-
+third to four years in the weapon possession case, to run concurrently
+with two years in prison and the maximum term of three years of post-
+release supervision in the attempted robbery case. This aggregate
+sentence was unduly harsh and excessive. This Court should reduce his
+sentence in the interest of justice.
+This Court has “broad, plenary power to modify a sentence that is
+unduly harsh or severe under the circumstances . . . without deference
+4to the sentencing court.” People v. Delgado, 80 N.Y.2d 780, 783 (1992).
+Moreover, this plenary power exists even when an individual’s
+conviction was the result of a negotiated guilty plea rather than a trial
+verdict. People v. Thompson, 60 N.Y.2d 513, 520 (1983); see, e.g., People
+v. Reyes, 89 A.D.3d 401, 402 (1st Dep’t 2011) (defendant’s sentence
+reduced after negotiated plea). This Court’s discretionary power may be
+exercised “without deference to the sentencing court.” Delgado, 80
+N.Y.2d at 783; People v. Wiggins, 24 A.D.3d 263, 263 (1st Dep’t 2005)
+(quoting Delgado). The Court should consider “the nature of the crime,
+the defendant’s circumstances, the need for societal protection, and the
+prospects for the defendant’s rehabilitation.” People v. Fernandez, 84
+A.D.3d 661, 664 (1st Dep’t 2011) (internal quotation omitted). The
+Court should also consider these factors with a view toward imposing
+the “minimum amount of confinement” necessary. People v. Notey, 72
+A.D.2d 279, 282-83 (2d Dep’t 1980) (internal citation omitted).
+The United States Supreme Court has recognized that youth is a
+mitigating factor because young people are categorically less deserving
+of severe punishment due to “their diminished culpability and greater
+prospects for reform.” Miller v. Alabama, 567 U.S. 460, 471 (2012).
+5“[T]he distinctive attributes of youth diminish the penological
+justifications for imposing the harshest sentences on juvenile offenders,
+even when they commit terrible crimes.” Id. at 472. Youths are less
+culpable because they have an “inherent lack of maturity and an
+underdeveloped sense of responsibility, leading to recklessness,
+impulsivity, and heedless risk-taking.” Id. at 471 (internal quotation
+omitted). As young people mature, their ability to appreciate the
+consequences of their actions improves. Id. at 471-72. With less fixed
+character traits than older people, young defendants show a greater
+capacity to respond positively to rehabilitation. Id.
+Accordingly, New York courts have often reduced sentences for
+armed or weapon-related offenses in view of the defendant’s youth. See
+People v. Hampton, 113 A.D.3d 1131, 1133 (4th Dep’t 2014) (sentence
+reduced for robbery in the first degree in part because defendant was
+“relatively young”); People v. Carter, 74 A.D.3d 1375, 1376 (3d Dep’t
+2010) (sentence reduced on four counts of robbery and assault where
+defendant was 20 years old); People v. Dyer, 60 A.D.3d 690, 690-91 (2d
+Dep’t 2009) (sentence reduced for criminal possession of a weapon in the
+third degree due in part to defendant’s youth); People v. Wilt, 18 A.D.3d
+6971, 973 (3d Dep’t 2005) (reducing sentence for assault in the first
+degree in part because defendant was 16 at the time of offense); People
+v. Strawbridge, 299 A.D.2d 584, 594 (3d Dep’t 2002) (sentence for
+second degree murder reduced in part due to 21-year-old defendant’s
+youth).
+As to the robbery, Mr. Jasquez “professed no motive,” and
+committed the offense in full view of security cameras that captured the
+entire incident. PSI at 4. This shows that Mr. Jasquez’s offense was an
+unthinking and impulsive act resulting from Mr. Jasquez’s youth,
+making him inherently more immature and reckless than older people,
+and thus reducing his culpability. Miller, 567 U.S. at 471.
+Further, this Court has reduced sentences where the offense
+resulted from the defendant’s fear for their physical safety. See People v.
+Matias, 161 A.D.2d 292, 292 (1st Dep’t 1990) (sentence was excessive
+where defendant was convicted of manslaughter after shooting the
+decedent, who “had a known history of threatening behavior directed at
+defendant and other tenants of [his] building”); see also People v.
+Roldan, 222 A.D.2d 132, 136-141 (1st Dep’t 1996) (sentence was
+excessive where defendant was a security guard who shot the decedent
+7during a physical altercation, and decedent had been involved in
+numerous violent confrontations with security personnel in the past).
+In the weapon possession case, police found Mr. Jasquez with a
+switchblade at 2:05 AM in a subway station on 42nd Street in
+Manhattan. PSI at 3. He stated that he “had it for protection.” PSI at 4.
+This shows that Mr. Jasquez was afraid for his safety travelling on the
+subway so late at night, and made a misguided attempt to be able to
+defend himself. While it is not an excuse, it demonstrates the “inherent
+lack of maturity and 
+ underdeveloped sense of responsibility” that is
+common among 18-year-olds, as Mr. Jasquez was at that time. Miller,
+567 U.S. at 471. Thus, Mr. Jasquez’s culpability for this non-violent
+offense was also reduced.
+Although Mr. Jasquez did have a youthful offender record prior to
+these offenses, as a young person, he shows potential for rehabilitation.
+PSI at 4. Mr. Jasquez was 18 or younger at the time of each of his
+offenses, meaning that his character traits are less fixed and he has a
+greater capacity for reform. Miller, 567 U.S. at 471-72. This is especially
+evident given that Mr. Jasquez had no prior felonies, and had
+maintained employment. PSI at 4-5. This Court has reduced sentences
+8even for violent offenses where the defendant showed such
+characteristics. See People v. Pagan, 159 A.D.2d 6, 14 (1st Dep’t 1990)
+(reducing sentence where defendant had a “history of productive
+employment” and no prior felonies); see also People v. Charles, 124
+A.D.3d 986, 988 (3d Dep’t 2015) (sentence reduction warranted where
+defendant had no prior felonies). Further, “[t]he first step toward
+rehabilitation is a sincere admission of the wrongdoing.” In re Umer K.,
+257 A.D.2d 195, 196 (1st Dep’t 1999). Mr. Jasquez accepted
+responsibility by pleading guilty and admitting his offense to the
+Probation Department in both cases. P. 9; PSI at 4.
+Mr. Jasquez received a determinate sentence of two years in
+prison and the maximum post-release supervision term of three years in
+the attempted robbery case. S. 6; N.Y. Penal Law § 70.02(3)(c),
+70.45(2)(e). In the weapon possession case, Mr. Jasquez received an
+indeterminate term of one-and-a-third to four years in prison. S. 6. In
+view of Mr. Jasquez’s reduced culpability, and potential for
+rehabilitation, Mr. Jasquez’s aggregate sentence to these terms imposed
+more than the “minimum amount of confinement necessary,” and was
+thus unduly harsh and excessive. Notey, 72 A.D.2d 282-83. In the
+9interest of justice, this Court should reduce his prison sentence on the
+indeterminate term of one-and-a-third to four years or reduce the
+maximum three-year term of post-release supervision2 on his
+determinate sentence of two years in the interest of justice to terms
+closer to the minimum.
+2 The prison term in the attempted robbery case was the minimum allowed, thus
+only the term of post-release supervision can be reduced. N.Y. Penal Law §
+70.02(3)(c).
+10CONCLUSION
+For the foregoing reasons, it is respectfully requested that this
+Court reduce Mr. Jasquez’s indeterminate prison term or post-release
+supervision term closer to the minimum.
+Dated: New York, New York
+September 28, 2018
+Christina Swarns, Esq.
+Attorney for Defendant-Appellant
+Eunice C. Lee, Esq.
+Supervising Attorney
+by: _______________________________
+David Billingsley, Esq.
+Staff Attorney
+dbillingsley@oadnyc.org
+Office of the Appellate Defender
+11 Park Place, Suite 1601
+New York, New York 10007
+212.402.4100
+11ADDENDA
+Supreme Court of the State of New York
+Appellate Division: First Department
+The People of the State of New York,
+Respondent,
+— against — Ind. Nos. 205-2015 &
+4420-2015
+Randy Jasquez,
+Defendant-Appellant.
+Statement Pursuant to Rule 5531
+1. The indictment numbers in the court below were 205-2015 and
+4420-2015.
+2. The full names of the original parties were “The People of the
+State of New York” against “Randy Jasquez.”
+3. These actions were commenced in Supreme Court, New York
+County.
+4. These actions were commenced by the filing of indictments.
+5. This is an appeal from a judgment rendered on March 25, 2016, by
+Supreme Court, New York County. Randy Jasquez was convicted
+after guilty pleas of one count of Attempted Robbery in the Second
+Degree, N.Y. Penal Law §§ 110 & 160.10(1), under Indictment No.
+205-2015, and one count of Criminal Possession of a Weapon in
+the Third Degree, N.Y. Penal Law § 265.02(1), under Indictment
+No. 4420-2015. Mr. Jasquez received two years’ imprisonment and
+three years’ post-release supervision, to run concurrently with one
+and one third to four years’ imprisonment, respectively.
+6. Mr. Jasquez has been granted leave to appeal as a poor person on
+the original record and typewritten briefs.
+A-1Supreme Court of the State of New York
+Appellate Division: First Department
+The People of the State of New York,
+Respondent,
+— against — Ind. Nos. 205-2015 &
+4420-2015
+Randy Jasquez,
+Defendant-Appellant.
+Printing Specification Statement
+1. The following statement is made in accordance with First
+Department Rule 600.10.
+2. Mr. Jasquez’s brief was prepared with Microsoft Word 2010 with
+Garamond typeface 14 point in the body and 12 point in the
+footnotes.
+3. The text of the brief has a word count of 1,706, as calculated by
+the processing system and is 11 pages.
+A-2
