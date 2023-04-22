@@ -59,10 +59,15 @@ def get_sof(text):
     
 def get_authorities(text):
     
-    pattern = re.compile(r'TABLE OF AUTHORITIES(.*?)Supreme', re.DOTALL | re.IGNORECASE)
+    pattern = re.compile(r'Cases(.*?)Supreme', re.DOTALL | re.IGNORECASE)
     matches = list(re.finditer(pattern, text))
-    auths = matches[0].group(1)
-    return auths
+    if matches:
+        auths = matches[0].group(1)
+        auths = re.sub(r'(\.{2,}) ?(([ivx]+)|(\d{1,3}))', '\n', auths)
+        return auths
+    else:
+        print("No match found.")
+        return None
 
 def get_sof_embedding_rows(name, sof, average = True):
     #if average is false there will be more than one embedding vector
@@ -95,6 +100,39 @@ def get_all_sof_embeddings(average = True):
             print(e)
         
     return sofs
+
+def get_all_auth_embeddings(average=True):
+    
+    auths = []
+    for file_name in os.listdir(folder_path):
+        file_path = os.path.join(folder_path, file_name)
+        text = get_pdf_text(file_path)
+        try:
+            auth = get_authorities(text)
+            name_pattern = re.compile(r'[A-Z][a-z]+_[A-Z][a-z]+')
+            name = re.findall(name_pattern, file_name)[0]
+            auths.append(get_sof_embedding_rows(name, auth, average))            
+        except Exception as e:
+            print(e)
+        
+    return auths
+
+
+if __name__ == "__main__":
+    caceres = text_from_file('caceres.txt')
+    jasquez = text_from_file('jasquez brief text.txt')
+    sof_embeds = get_all_sof_embeddings()
+    auth_embeds = get_all_auth_embeddings()
+    sof_embed_vectors = [row[0][2] for row in sof_embeds]
+    auth_embed_vectors = [row[0][2] for row in auth_embeds]
+    similarities = cosine_similarity(sof_embed_vectors, auth_embed_vectors)
+    sof_client_names = [row[0][0] for row in sof_embeds]
+    auth_client_names = [row[0][0] for row in auth_embeds]
+    similarities = pd.DataFrame(similarities, index = sof_client_names, columns = auth_client_names)
+    #so it is only able to predict 5/14 correctly. 
+    #then the next stop is to actually get the cases and see if it can predict from that.
+    
+    
 
 
 #okay so if there are n chunks, it should come out as a list of embeddings of
